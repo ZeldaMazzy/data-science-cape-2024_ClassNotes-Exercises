@@ -1,0 +1,1801 @@
+application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,admission
+1,Female,FALSE,3.3,Business,Asian,620,3,Financial Services,1
+2,Male,FALSE,3.28,Humanities,Black,680,5,Investment Management,0
+3,Female,TRUE,3.3,Business,NA,710,5,Technology,1
+6,Male,FALSE,3.18,Business,White,610,6,Consulting,0
+7,Female,FALSE,2.93,STEM,Other,590,3,Technology,1
+9,Male,FALSE,3.24,Business,White,590,2,Nonprofit/Gov,0
+15,Female,FALSE,3.03,STEM,White,600,5,Technology,1
+16,Female,TRUE,3.05,Humanities,NA,710,4,Consulting,1
+17,Female,FALSE,3.32,Business,Asian,710,5,PE/VC,1
+21,Male,FALSE,3.46,Business,White,760,5,Investment Banking,1
+23,Female,TRUE,3.42,Business,NA,640,6,Consulting,1
+25,Female,FALSE,3.47,STEM,White,710,5,Consulting,1
+26,Male,FALSE,3.26,Humanities,Asian,690,5,Technology,1
+27,Male,TRUE,2.99,STEM,NA,640,5,Consulting,0
+29,Male,FALSE,3.08,Business,Asian,570,7,Retail,0
+30,Male,TRUE,3.65,STEM,NA,700,5,Consulting,1
+34,Female,FALSE,3.53,STEM,White,710,5,Consulting,1
+36,Male,TRUE,3.22,Humanities,NA,670,4,Other,0
+39,Female,FALSE,3.3,Humanities,Asian,740,6,Investment Banking,1
+40,Female,FALSE,3.45,Humanities,Asian,640,3,PE/VC,1
+41,Female,TRUE,3.12,Business,NA,610,4,PE/VC,1
+42,Female,TRUE,3.41,Business,NA,600,7,Nonprofit/Gov,1
+43,Male,FALSE,3.38,Humanities,Asian,720,5,Consulting,0
+44,Female,FALSE,2.93,Humanities,Other,590,4,Consulting,1
+48,Male,FALSE,3.33,STEM,Hispanic,720,7,Consulting,1
+49,Male,FALSE,3.23,STEM,Black,660,6,Other,0
+54,Female,FALSE,3.23,STEM,Asian,700,6,PE/VC,1
+58,Female,TRUE,3.05,Business,NA,650,7,Health Care,1
+61,Female,FALSE,3.27,Business,White,670,5,Consulting,1
+63,Female,TRUE,3,STEM,NA,640,3,Financial Services,1
+65,Female,FALSE,3.39,Humanities,White,680,5,Investment Banking,1
+70,Male,FALSE,3.41,Humanities,White,690,6,Technology,1
+73,Female,TRUE,3.34,STEM,NA,680,5,PE/VC,1
+74,Female,TRUE,2.89,Humanities,NA,670,5,Consulting,1
+75,Female,TRUE,3.35,Business,NA,640,5,PE/VC,1
+80,Female,FALSE,3.1,STEM,Asian,680,4,Health Care,1
+84,Female,FALSE,3.35,Humanities,White,710,6,Consulting,1
+88,Male,FALSE,3.48,Business,White,710,5,Consulting,1
+90,Male,FALSE,3.09,Business,Other,610,6,Consulting,0
+94,Female,FALSE,3.23,Humanities,White,620,7,Nonprofit/Gov,1
+95,Female,FALSE,3.05,Humanities,White,600,5,Other,1
+96,Male,FALSE,3.32,Business,Black,670,4,Consulting,1
+100,Female,FALSE,3.38,Humanities,White,660,5,Consulting,1
+104,Female,TRUE,3.34,Business,NA,650,5,Financial Services,1
+105,Female,FALSE,3.3,Humanities,Hispanic,670,4,Nonprofit/Gov,1
+114,Female,FALSE,3.2,Humanities,Asian,680,7,Consulting,1
+115,Female,FALSE,3.23,STEM,Asian,610,5,Nonprofit/Gov,1
+117,Female,FALSE,3.46,STEM,White,660,5,Consulting,1
+119,Male,FALSE,3.33,Humanities,White,680,4,Financial Services,1
+120,Female,TRUE,2.99,Humanities,NA,570,6,Real Estate,1
+121,Male,FALSE,3.22,Business,Black,610,5,Technology,0
+122,Female,TRUE,3.29,Business,NA,710,4,Consulting,1
+129,Female,FALSE,3.43,Humanities,Black,710,7,Other,0
+130,Female,FALSE,3.27,Business,White,660,6,Other,1
+131,Male,FALSE,3.34,Humanities,White,700,4,Consulting,1
+135,Female,FALSE,3.28,Humanities,White,610,6,Consulting,1
+139,Female,FALSE,3.31,STEM,Asian,600,5,Investment Banking,1
+142,Male,TRUE,3.17,STEM,NA,600,4,Investment Banking,0
+143,Female,TRUE,3.48,STEM,NA,780,5,PE/VC,1
+151,Male,FALSE,3.37,Business,Asian,710,5,Technology,1
+153,Female,TRUE,3.32,Humanities,NA,650,5,Real Estate,1
+154,Female,TRUE,3.13,Business,NA,580,4,Consulting,1
+155,Female,FALSE,3.55,Humanities,Asian,680,6,PE/VC,1
+158,Female,FALSE,3.18,STEM,Asian,650,6,Nonprofit/Gov,1
+161,Male,FALSE,3.3,Business,White,630,3,PE/VC,0
+162,Female,FALSE,3.2,STEM,White,610,4,Consulting,1
+166,Female,FALSE,3.17,STEM,White,600,4,Nonprofit/Gov,1
+167,Female,FALSE,3.43,Business,White,680,3,Consulting,1
+168,Male,FALSE,3.36,STEM,Black,700,5,PE/VC,1
+169,Female,TRUE,3.15,STEM,NA,650,5,Investment Banking,1
+170,Female,FALSE,3.23,Business,Black,680,6,Health Care,1
+171,Female,FALSE,3.36,Humanities,Asian,710,4,CPG,1
+175,Female,TRUE,3.17,STEM,NA,630,6,Nonprofit/Gov,1
+177,Female,FALSE,3.25,Humanities,White,670,5,Consulting,1
+179,Male,FALSE,3.43,Business,Asian,680,3,Consulting,0
+181,Male,TRUE,3.4,Business,NA,750,4,Nonprofit/Gov,0
+183,Male,FALSE,3.34,Humanities,White,700,5,Consulting,1
+186,Male,TRUE,3.4,Humanities,NA,690,6,Other,1
+187,Male,TRUE,3.01,Humanities,NA,670,6,Technology,0
+191,Female,FALSE,3.32,Humanities,White,730,5,Nonprofit/Gov,1
+195,Female,TRUE,3.48,Humanities,NA,670,5,Financial Services,1
+196,Female,FALSE,3.14,Business,White,600,3,Nonprofit/Gov,1
+199,Female,FALSE,3.6,Humanities,Other,670,5,Consulting,1
+200,Male,FALSE,3.5,STEM,Hispanic,700,6,Investment Management,1
+201,Male,FALSE,3.61,Business,Hispanic,690,5,Technology,0
+202,Male,FALSE,3.11,STEM,Black,650,5,Financial Services,0
+203,Male,TRUE,3.1,Humanities,NA,580,6,Consulting,0
+207,Male,FALSE,3.45,Humanities,Other,700,6,Consulting,1
+208,Female,TRUE,3.26,Business,NA,630,6,Consulting,1
+209,Male,FALSE,3.35,Business,White,660,5,Consulting,1
+210,Female,FALSE,3.23,Business,White,670,5,Nonprofit/Gov,1
+212,Female,FALSE,3.44,Business,White,750,5,Technology,1
+213,Female,FALSE,3.14,Humanities,Black,580,5,Technology,0
+214,Female,FALSE,3.24,Business,White,660,6,Technology,1
+218,Female,FALSE,3.02,Humanities,Asian,570,4,Consulting,1
+221,Male,FALSE,3.09,Humanities,Asian,690,5,Other,0
+223,Male,FALSE,3.71,STEM,White,720,6,Other,0
+224,Female,FALSE,3.19,Business,Asian,630,5,Investment Banking,1
+225,Female,FALSE,3.24,STEM,Asian,670,4,Consulting,1
+234,Male,TRUE,3.33,STEM,NA,720,5,Nonprofit/Gov,1
+236,Male,FALSE,3.02,STEM,Black,590,5,Consulting,0
+240,Female,FALSE,3.27,Humanities,Black,680,5,Health Care,0
+241,Female,FALSE,3.15,Business,White,620,6,Technology,1
+242,Female,FALSE,3.11,STEM,Asian,620,4,Financial Services,1
+246,Female,FALSE,3.02,STEM,Asian,570,5,Other,1
+248,Male,FALSE,3.22,STEM,White,650,5,PE/VC,0
+254,Female,FALSE,3.61,Humanities,Black,740,6,Health Care,1
+263,Male,FALSE,3.21,Business,White,630,6,Investment Management,0
+268,Male,FALSE,2.95,Humanities,Hispanic,600,5,Nonprofit/Gov,0
+270,Female,TRUE,3.34,Humanities,NA,670,5,Nonprofit/Gov,1
+271,Female,TRUE,3.34,Business,NA,620,4,Consulting,1
+273,Female,FALSE,3.23,Humanities,Other,670,6,Investment Banking,1
+275,Male,TRUE,3.3,STEM,NA,650,5,Technology,0
+276,Female,FALSE,3.05,Humanities,Asian,630,5,Consulting,1
+283,Male,FALSE,3.58,Business,White,740,4,Investment Banking,1
+284,Female,FALSE,2.97,Humanities,Asian,590,4,Nonprofit/Gov,1
+286,Female,FALSE,3.49,Business,Asian,780,6,PE/VC,1
+287,Female,TRUE,3.33,STEM,NA,640,7,Consulting,1
+289,Male,FALSE,3.42,STEM,Asian,750,3,Media/Entertainment,1
+292,Female,TRUE,2.99,Humanities,NA,630,6,Nonprofit/Gov,1
+294,Female,FALSE,3.35,Business,Asian,670,5,Technology,1
+297,Female,TRUE,3.34,Humanities,NA,570,5,Consulting,1
+302,Male,FALSE,3.36,Business,Asian,720,4,Technology,1
+305,Male,FALSE,3.53,STEM,Asian,660,5,Investment Banking,1
+307,Female,FALSE,3.25,Humanities,Asian,710,6,Technology,1
+308,Female,FALSE,3.34,Humanities,Asian,760,4,PE/VC,1
+311,Male,FALSE,3.49,Business,Other,700,5,Investment Management,1
+312,Male,FALSE,3.17,Humanities,Hispanic,670,2,Investment Banking,0
+314,Female,FALSE,3.25,Humanities,Asian,580,5,Consulting,1
+316,Female,FALSE,3.29,Humanities,Asian,700,4,Investment Management,1
+317,Male,FALSE,3.32,Humanities,White,700,6,PE/VC,0
+318,Female,TRUE,3.33,STEM,NA,680,4,Health Care,1
+319,Female,FALSE,3.32,Humanities,White,630,5,Consulting,1
+320,Male,FALSE,3.03,Humanities,Asian,590,4,Consulting,0
+322,Female,TRUE,3.24,STEM,NA,610,5,Other,1
+324,Female,TRUE,3.14,Humanities,NA,580,5,Nonprofit/Gov,1
+328,Male,TRUE,3.31,Humanities,NA,610,6,Technology,0
+332,Male,TRUE,3.33,Business,NA,670,5,Consulting,1
+333,Male,FALSE,3.23,STEM,White,600,5,Other,0
+336,Female,FALSE,3.21,Humanities,White,700,6,PE/VC,1
+337,Male,FALSE,3.5,Humanities,Asian,670,5,Nonprofit/Gov,0
+338,Female,TRUE,3.29,Humanities,NA,690,4,Financial Services,1
+341,Female,FALSE,3.1,Business,Other,620,6,Real Estate,1
+343,Male,TRUE,3.28,Business,NA,660,4,Technology,0
+344,Female,FALSE,3.18,STEM,White,590,6,Nonprofit/Gov,1
+345,Female,FALSE,2.96,Humanities,White,580,7,Financial Services,1
+346,Male,TRUE,3.58,STEM,NA,710,5,Investment Banking,1
+347,Female,FALSE,3.35,STEM,White,700,5,Technology,1
+352,Female,TRUE,3.09,Humanities,NA,660,6,Financial Services,1
+353,Female,FALSE,3.47,Humanities,White,760,4,Technology,1
+355,Male,FALSE,3.28,STEM,Black,720,5,PE/VC,1
+356,Male,FALSE,3.37,STEM,White,690,5,Consulting,1
+357,Female,TRUE,3.31,Humanities,NA,630,6,Nonprofit/Gov,1
+358,Female,TRUE,3.03,Humanities,NA,660,5,Consulting,1
+365,Female,FALSE,3.42,Humanities,White,700,6,Consulting,1
+366,Female,FALSE,3.27,Business,White,660,4,Consulting,1
+369,Male,FALSE,3.22,Business,Asian,580,5,Investment Banking,0
+370,Female,FALSE,3.16,Humanities,White,620,5,Technology,1
+374,Female,TRUE,3.21,STEM,NA,600,4,Consulting,1
+375,Female,FALSE,3.01,Humanities,Black,660,8,Technology,0
+377,Female,TRUE,3.18,Business,NA,690,3,Financial Services,1
+379,Female,FALSE,3.11,STEM,Other,610,6,PE/VC,1
+381,Female,FALSE,3.26,STEM,White,650,6,Consulting,1
+383,Female,FALSE,3.1,Business,Asian,610,5,Nonprofit/Gov,1
+384,Male,TRUE,3.17,Business,NA,580,6,Consulting,0
+385,Male,FALSE,3.43,Humanities,Hispanic,660,4,CPG,1
+386,Female,FALSE,3.31,STEM,White,620,5,Investment Banking,1
+387,Female,FALSE,3.03,Humanities,Asian,590,5,Consulting,1
+388,Female,TRUE,3.08,STEM,NA,630,5,Health Care,1
+391,Male,FALSE,3.42,Business,Asian,720,3,Consulting,0
+392,Female,FALSE,3.34,Business,White,680,4,Financial Services,1
+394,Female,FALSE,3.49,Humanities,White,690,5,Financial Services,1
+399,Female,FALSE,3.28,STEM,Hispanic,630,5,Other,0
+404,Female,FALSE,3.35,Business,White,620,6,Consulting,1
+405,Female,FALSE,3.36,Business,White,620,4,PE/VC,1
+406,Female,FALSE,3.06,Business,White,580,5,Investment Banking,1
+408,Female,FALSE,3.06,Business,White,610,6,Nonprofit/Gov,1
+412,Female,FALSE,3.29,Business,White,600,5,Consulting,1
+413,Female,FALSE,3.18,Humanities,Asian,630,4,PE/VC,1
+426,Female,TRUE,3,Humanities,NA,630,5,Consulting,1
+432,Male,FALSE,3.56,STEM,White,710,6,Technology,0
+434,Male,TRUE,3.54,Business,NA,690,4,PE/VC,1
+436,Male,FALSE,3.28,STEM,Asian,680,5,Other,0
+437,Female,FALSE,3.43,Humanities,White,770,5,Consulting,1
+441,Female,FALSE,3.46,STEM,White,680,7,PE/VC,1
+443,Female,FALSE,3.25,STEM,White,620,4,Technology,1
+445,Female,FALSE,3.18,Humanities,White,570,5,Investment Management,1
+449,Male,FALSE,3.33,Business,White,660,5,Investment Banking,0
+450,Male,FALSE,3.47,Business,Asian,660,6,Real Estate,0
+455,Male,FALSE,3.21,STEM,Black,650,6,Nonprofit/Gov,0
+458,Male,FALSE,3.43,Humanities,Asian,640,4,Real Estate,0
+459,Female,FALSE,3.17,Business,Other,660,6,Technology,1
+460,Male,FALSE,3.4,Business,Asian,680,5,Consulting,1
+464,Male,FALSE,3.28,Business,Asian,600,6,Investment Banking,0
+465,Female,FALSE,3.06,STEM,White,590,6,Consulting,1
+469,Female,FALSE,3.36,Humanities,Asian,670,4,Other,1
+470,Female,FALSE,3.22,Humanities,White,670,6,Technology,1
+471,Male,FALSE,3.37,Humanities,Hispanic,720,6,Nonprofit/Gov,1
+473,Male,FALSE,3.48,Business,Black,690,5,Investment Banking,1
+474,Female,FALSE,3.34,STEM,Other,680,5,Technology,1
+479,Male,FALSE,3.24,STEM,Hispanic,620,5,PE/VC,0
+482,Female,TRUE,3.21,STEM,NA,590,6,PE/VC,1
+483,Female,TRUE,3.28,Business,NA,600,6,Consulting,1
+484,Female,FALSE,3.27,Business,Other,580,5,Financial Services,1
+485,Female,TRUE,3.2,STEM,NA,610,5,Real Estate,1
+490,Male,FALSE,3.11,STEM,White,640,5,Nonprofit/Gov,0
+491,Male,TRUE,3.3,Business,NA,600,5,Consulting,0
+494,Female,TRUE,3.18,STEM,NA,620,4,Nonprofit/Gov,1
+498,Male,FALSE,3.42,Business,White,720,3,PE/VC,1
+499,Male,FALSE,3.28,STEM,White,650,5,Financial Services,0
+506,Male,TRUE,3.11,STEM,NA,590,5,Consulting,0
+507,Female,FALSE,3.33,STEM,White,660,5,Technology,1
+509,Male,FALSE,3.2,STEM,Asian,650,6,PE/VC,0
+512,Female,TRUE,3.47,Business,NA,650,4,Investment Banking,1
+515,Male,FALSE,3.17,Business,Other,610,4,Consulting,0
+516,Male,FALSE,3.32,Humanities,White,630,5,Consulting,0
+518,Female,TRUE,3.23,Humanities,NA,630,6,Consulting,1
+523,Male,FALSE,3.32,STEM,Hispanic,690,4,Financial Services,0
+524,Male,TRUE,3.16,STEM,NA,660,4,Technology,0
+528,Female,FALSE,3.03,STEM,White,600,5,Financial Services,1
+529,Female,FALSE,3.42,Humanities,Other,760,5,Other,1
+530,Female,FALSE,3.27,Humanities,Other,650,6,Investment Banking,1
+531,Female,TRUE,3.13,Business,NA,650,5,Technology,1
+532,Male,FALSE,3.2,Business,Asian,610,5,PE/VC,0
+534,Female,TRUE,3.19,Business,NA,590,6,Investment Banking,1
+535,Female,FALSE,3.35,Humanities,White,720,5,Investment Banking,1
+541,Female,TRUE,3.16,Humanities,NA,690,4,Consulting,1
+548,Female,FALSE,3.5,Humanities,White,680,6,Consulting,1
+556,Female,TRUE,3.23,Business,NA,680,4,Investment Banking,1
+558,Female,TRUE,3.04,Business,NA,620,6,Nonprofit/Gov,1
+564,Female,TRUE,3.36,STEM,NA,690,5,Other,1
+568,Male,FALSE,3.15,Humanities,Black,570,4,Investment Management,0
+576,Female,TRUE,3.17,Humanities,NA,630,6,Investment Management,1
+579,Male,FALSE,3.46,Business,Hispanic,660,6,Technology,1
+581,Male,FALSE,3.32,Business,White,720,4,Nonprofit/Gov,1
+583,Male,FALSE,3.33,STEM,White,680,4,Investment Banking,1
+584,Male,FALSE,3.35,Business,White,660,3,Consulting,1
+585,Male,TRUE,3.35,STEM,NA,690,5,Other,1
+592,Female,FALSE,3.33,Humanities,White,700,4,Nonprofit/Gov,1
+593,Male,FALSE,3.44,Business,White,660,6,Consulting,1
+594,Female,TRUE,3.19,STEM,NA,700,5,Consulting,1
+597,Male,FALSE,3.27,STEM,White,590,7,Nonprofit/Gov,0
+598,Male,TRUE,3.43,Humanities,NA,720,5,Nonprofit/Gov,0
+601,Female,TRUE,3.24,STEM,NA,660,5,Investment Management,1
+603,Male,TRUE,3.04,Business,NA,610,7,PE/VC,0
+604,Female,FALSE,3.31,STEM,Black,720,7,Technology,1
+605,Female,FALSE,3.25,Business,Black,630,6,Consulting,0
+606,Male,FALSE,2.99,Humanities,White,630,5,Other,0
+607,Female,TRUE,3,Business,NA,630,3,Consulting,1
+610,Female,FALSE,3.69,STEM,Asian,780,6,Nonprofit/Gov,1
+613,Male,FALSE,3.09,Business,White,640,5,PE/VC,0
+615,Female,FALSE,3.22,Humanities,Black,660,5,Technology,1
+617,Male,TRUE,3.46,Humanities,NA,680,5,Technology,0
+619,Male,FALSE,2.88,Business,Other,570,5,Health Care,0
+622,Female,FALSE,3.4,Business,Hispanic,780,5,Technology,1
+623,Male,FALSE,3.2,STEM,Black,670,4,CPG,0
+625,Male,TRUE,3.33,Humanities,NA,710,7,Health Care,1
+626,Female,TRUE,3.07,STEM,NA,640,6,Real Estate,1
+629,Male,FALSE,3.11,Humanities,Asian,610,6,Media/Entertainment,0
+631,Male,FALSE,2.99,Humanities,White,580,3,Consulting,0
+641,Female,TRUE,3.14,Business,NA,590,5,PE/VC,1
+642,Male,TRUE,3.34,Business,NA,660,5,Consulting,1
+643,Female,FALSE,3.43,Humanities,Black,630,4,CPG,0
+645,Male,TRUE,3.19,Business,NA,670,5,Financial Services,0
+646,Male,TRUE,3,Business,NA,620,5,Technology,0
+648,Female,TRUE,3.12,Humanities,NA,690,6,PE/VC,1
+652,Male,TRUE,3.33,Business,NA,690,3,Consulting,1
+653,Male,TRUE,3.29,STEM,NA,620,4,Consulting,0
+654,Female,TRUE,3.23,Business,NA,640,4,Consulting,1
+657,Female,FALSE,3.37,Humanities,Asian,670,4,Technology,1
+658,Female,FALSE,3.17,Business,Other,570,6,Other,1
+660,Male,TRUE,3.21,Humanities,NA,660,5,Financial Services,1
+663,Female,TRUE,3.23,STEM,NA,650,4,Financial Services,1
+665,Male,TRUE,3.32,STEM,NA,710,5,Financial Services,1
+666,Female,TRUE,3.11,STEM,NA,650,4,Technology,1
+668,Male,FALSE,3.28,STEM,Asian,590,7,Investment Management,0
+672,Male,FALSE,3.65,STEM,Hispanic,710,6,Financial Services,1
+676,Male,FALSE,3.22,STEM,Hispanic,690,3,Investment Management,1
+679,Female,TRUE,3.26,STEM,NA,700,3,Other,1
+682,Male,FALSE,3.26,Business,White,740,6,Consulting,1
+683,Female,FALSE,3.37,Humanities,Black,650,4,Technology,0
+684,Male,FALSE,3.36,Humanities,White,630,6,Technology,0
+685,Male,FALSE,3.34,Business,White,680,5,Financial Services,1
+686,Female,FALSE,3.58,Business,Other,780,5,Technology,1
+700,Male,TRUE,3.3,Humanities,NA,630,4,Investment Banking,0
+702,Male,FALSE,3.5,Business,Asian,690,6,Other,0
+704,Female,FALSE,3.28,Humanities,Other,650,6,PE/VC,1
+711,Male,FALSE,3.02,STEM,Asian,640,4,Retail,0
+712,Female,FALSE,3.51,Humanities,Other,690,4,Consulting,1
+719,Male,FALSE,3.26,STEM,Asian,690,4,Technology,1
+720,Male,TRUE,3.39,Business,NA,640,6,Consulting,0
+722,Male,FALSE,3.26,STEM,Asian,710,6,Investment Management,1
+723,Male,TRUE,3.29,Business,NA,590,5,Nonprofit/Gov,0
+724,Male,TRUE,3.19,Humanities,NA,630,5,Health Care,0
+725,Male,FALSE,3.18,STEM,White,680,4,PE/VC,0
+730,Male,FALSE,2.89,Humanities,Asian,580,4,Technology,0
+731,Male,FALSE,3.22,Humanities,White,600,5,Technology,0
+743,Male,FALSE,3.18,Business,White,730,4,Consulting,0
+744,Male,FALSE,3.35,STEM,White,650,5,Consulting,0
+745,Male,FALSE,3.01,STEM,Hispanic,650,5,Consulting,0
+746,Male,FALSE,2.98,Business,White,570,5,PE/VC,0
+747,Female,TRUE,3.29,Humanities,NA,710,4,Investment Banking,1
+748,Male,TRUE,3.31,Humanities,NA,670,4,CPG,1
+749,Male,FALSE,3.37,Humanities,White,700,4,Consulting,1
+753,Male,TRUE,3.63,Business,NA,700,6,Technology,1
+754,Male,TRUE,3.24,Humanities,NA,670,5,Other,1
+756,Female,FALSE,3.45,Business,Asian,700,5,Other,1
+765,Male,FALSE,3.35,Humanities,Black,720,7,Consulting,1
+779,Female,FALSE,3.24,Business,Hispanic,660,4,Other,0
+781,Male,FALSE,3.35,Business,Black,710,6,Health Care,0
+782,Male,FALSE,3.49,STEM,Black,690,6,Investment Banking,1
+784,Male,TRUE,3.06,Humanities,NA,580,3,Technology,0
+787,Female,FALSE,3.26,Humanities,White,740,4,Health Care,1
+794,Female,FALSE,3.39,STEM,Black,610,6,Investment Management,0
+795,Male,FALSE,3.33,STEM,Asian,690,4,Financial Services,1
+801,Male,TRUE,3.27,Business,NA,640,6,Health Care,0
+803,Male,TRUE,3.45,Business,NA,680,5,Financial Services,1
+807,Female,FALSE,3.26,Business,White,710,5,Investment Banking,1
+808,Male,FALSE,3.21,Humanities,Asian,630,4,Investment Banking,0
+823,Male,TRUE,3.26,Business,NA,680,7,Consulting,1
+824,Female,FALSE,3.47,Business,Black,630,5,PE/VC,0
+826,Male,TRUE,3.2,STEM,NA,650,5,PE/VC,0
+829,Male,FALSE,3.58,STEM,Black,740,4,Health Care,1
+844,Male,TRUE,3.3,STEM,NA,660,3,Nonprofit/Gov,1
+845,Female,FALSE,3.39,Business,Hispanic,670,6,PE/VC,1
+851,Male,FALSE,3.28,STEM,White,710,5,Technology,1
+854,Female,TRUE,3.23,Humanities,NA,690,5,Health Care,1
+855,Male,TRUE,3.32,Business,NA,700,5,Investment Banking,1
+859,Female,FALSE,3.45,STEM,Hispanic,710,4,Health Care,1
+860,Male,TRUE,3.26,Humanities,NA,660,5,Consulting,0
+866,Male,FALSE,3.05,Humanities,White,580,6,Technology,0
+868,Male,FALSE,3.52,STEM,Asian,710,5,Media/Entertainment,1
+870,Female,FALSE,3.29,Humanities,Hispanic,690,3,Nonprofit/Gov,0
+872,Male,FALSE,3.44,Humanities,Asian,720,5,Consulting,1
+874,Male,TRUE,3.21,Business,NA,640,3,Financial Services,0
+877,Male,FALSE,3.26,Humanities,Asian,710,6,Consulting,0
+882,Male,TRUE,3.41,Business,NA,710,7,PE/VC,1
+883,Female,TRUE,3.15,STEM,NA,670,5,Other,0
+886,Male,FALSE,3.33,Business,Asian,700,5,Consulting,1
+887,Female,FALSE,3.3,Humanities,Asian,690,7,Consulting,1
+888,Male,FALSE,3.32,Business,Asian,670,4,Nonprofit/Gov,0
+897,Male,FALSE,3.29,Humanities,Hispanic,760,5,Technology,1
+901,Male,FALSE,3.04,Business,Asian,580,4,Consulting,0
+904,Female,FALSE,3.34,Humanities,Asian,660,6,Real Estate,1
+905,Female,FALSE,3.23,Humanities,White,710,6,PE/VC,1
+912,Male,TRUE,3.41,STEM,NA,710,6,Nonprofit/Gov,1
+916,Male,FALSE,3.29,Humanities,White,600,5,Consulting,0
+918,Female,TRUE,3.23,Humanities,NA,590,4,Consulting,0
+922,Female,TRUE,3.45,Business,NA,710,4,Investment Management,1
+926,Female,FALSE,3.36,Humanities,Asian,660,5,Investment Management,1
+928,Female,FALSE,3.42,STEM,Hispanic,780,6,Consulting,1
+929,Male,FALSE,3.74,Humanities,Hispanic,700,5,PE/VC,0
+930,Male,FALSE,3.08,Business,Asian,650,5,Consulting,0
+931,Female,FALSE,3.21,Humanities,Asian,640,5,Consulting,0
+932,Female,FALSE,3.31,Business,White,660,4,PE/VC,1
+935,Female,TRUE,3.33,STEM,NA,750,5,Investment Banking,1
+939,Male,FALSE,3.21,Humanities,White,690,3,Real Estate,1
+944,Female,TRUE,3.39,STEM,NA,690,6,Technology,1
+949,Female,FALSE,2.95,STEM,Asian,570,5,Investment Banking,0
+951,Male,FALSE,3.37,Business,White,580,5,Financial Services,0
+961,Female,TRUE,3.45,Humanities,NA,670,5,PE/VC,1
+962,Male,FALSE,3.51,Humanities,White,750,6,Real Estate,1
+966,Female,FALSE,3.21,Humanities,White,610,6,PE/VC,0
+968,Male,FALSE,3.33,STEM,Asian,730,6,PE/VC,1
+969,Male,FALSE,3.56,Humanities,Asian,700,6,Technology,1
+971,Male,FALSE,3.31,Business,White,610,7,Consulting,0
+975,Female,TRUE,3.5,Humanities,NA,750,5,Financial Services,1
+984,Male,FALSE,3.43,Humanities,Black,680,5,Technology,0
+990,Female,FALSE,3.2,Humanities,Other,660,6,PE/VC,1
+995,Female,FALSE,3.46,Business,White,710,5,PE/VC,1
+997,Male,TRUE,3.29,Humanities,NA,660,5,PE/VC,0
+998,Male,FALSE,3.16,Humanities,White,620,5,Technology,0
+999,Male,FALSE,3.55,STEM,Hispanic,780,5,Investment Banking,0
+1006,Male,FALSE,3.18,STEM,White,710,4,Consulting,0
+1007,Male,FALSE,3.1,Humanities,Asian,570,5,Consulting,0
+1009,Male,FALSE,3.41,Humanities,Asian,690,6,PE/VC,1
+1017,Female,FALSE,3.45,Humanities,Asian,710,7,CPG,1
+1018,Male,TRUE,3.26,Humanities,NA,690,5,Consulting,1
+1021,Female,TRUE,3.25,Humanities,NA,670,3,Consulting,1
+1029,Male,FALSE,3.51,Humanities,White,710,6,Investment Banking,1
+1032,Female,FALSE,3.25,STEM,Black,580,4,Consulting,0
+1033,Male,FALSE,3.32,STEM,Black,700,5,Technology,1
+1035,Male,FALSE,3.44,Humanities,Other,710,7,Other,1
+1042,Male,FALSE,3.3,STEM,Asian,690,5,Investment Banking,1
+1044,Male,TRUE,3.28,Business,NA,640,5,PE/VC,0
+1045,Female,TRUE,3.21,Humanities,NA,690,5,PE/VC,1
+1048,Male,TRUE,3.4,STEM,NA,580,5,Consulting,0
+1050,Female,FALSE,3.2,Business,White,580,6,Investment Banking,0
+1055,Male,FALSE,3.4,Humanities,White,730,5,Technology,1
+1058,Male,FALSE,3.2,Business,Asian,660,3,Other,0
+1063,Female,TRUE,3.26,Humanities,NA,750,7,Investment Management,1
+1070,Female,FALSE,3.28,STEM,White,640,5,Health Care,0
+1072,Female,FALSE,3.31,Humanities,White,650,4,Technology,0
+1074,Male,FALSE,3.3,STEM,White,660,6,Financial Services,1
+1076,Male,TRUE,3.6,Business,NA,780,5,Health Care,1
+1078,Female,TRUE,3.45,Humanities,NA,690,3,PE/VC,1
+1079,Female,TRUE,3.57,STEM,NA,680,6,Other,1
+1087,Male,FALSE,3.35,STEM,Asian,720,5,PE/VC,1
+1092,Male,FALSE,3.29,Business,White,670,5,PE/VC,0
+1096,Male,FALSE,3.31,STEM,Other,680,3,PE/VC,1
+1097,Male,TRUE,3.21,Business,NA,620,5,Financial Services,0
+1106,Female,FALSE,3.13,Business,Asian,600,6,PE/VC,0
+1118,Female,FALSE,3.57,Business,White,680,4,PE/VC,1
+1122,Female,TRUE,3.35,Business,NA,700,6,Technology,1
+1125,Male,FALSE,3.29,STEM,White,710,5,Financial Services,1
+1127,Male,FALSE,3.26,Humanities,Asian,670,5,Other,1
+1131,Female,FALSE,3.36,Business,White,610,5,PE/VC,0
+1132,Female,TRUE,3.58,Humanities,NA,720,5,Media/Entertainment,1
+1134,Male,FALSE,3.19,Humanities,White,640,4,Investment Banking,0
+1139,Male,FALSE,3.36,Humanities,Hispanic,690,5,Consulting,0
+1142,Female,TRUE,3.29,Humanities,NA,690,5,PE/VC,1
+1147,Female,FALSE,3.39,STEM,Asian,700,4,Investment Banking,1
+1149,Male,TRUE,3.4,STEM,NA,750,4,Nonprofit/Gov,1
+1153,Male,FALSE,3.38,Humanities,White,680,5,Investment Banking,0
+1157,Male,TRUE,3.32,Humanities,NA,710,6,Nonprofit/Gov,1
+1158,Male,FALSE,3.32,Business,Asian,770,5,Health Care,1
+1166,Male,FALSE,3.61,Humanities,Black,760,3,Financial Services,0
+1168,Male,FALSE,3.47,STEM,Black,700,5,Nonprofit/Gov,1
+1170,Female,FALSE,3.47,STEM,White,740,3,Technology,1
+1175,Female,TRUE,3.31,STEM,NA,680,6,Consulting,1
+1182,Female,FALSE,3.26,STEM,White,720,4,Financial Services,1
+1187,Female,FALSE,3.74,Humanities,White,760,4,Nonprofit/Gov,1
+1188,Male,TRUE,3.49,Business,NA,690,6,PE/VC,0
+1191,Male,TRUE,3.12,Humanities,NA,620,7,Consulting,0
+1196,Male,FALSE,3.59,Humanities,Black,710,6,Investment Banking,0
+1197,Male,FALSE,3.5,STEM,Black,730,5,Other,1
+1199,Male,FALSE,3.35,Humanities,Black,670,5,Energy,1
+1212,Male,TRUE,3.24,Humanities,NA,710,6,Health Care,0
+1218,Male,TRUE,3.34,Humanities,NA,660,5,Health Care,1
+1221,Male,FALSE,3.24,STEM,White,640,5,Nonprofit/Gov,0
+1236,Male,TRUE,3.45,Humanities,NA,720,7,PE/VC,0
+1239,Male,FALSE,3.29,Humanities,Other,770,5,Financial Services,1
+1240,Male,FALSE,3.34,STEM,Black,600,5,Consulting,0
+1241,Female,FALSE,3.23,Humanities,Hispanic,710,5,Nonprofit/Gov,0
+1242,Male,FALSE,3.15,STEM,White,620,5,Consulting,0
+1246,Male,FALSE,3.19,STEM,Black,590,5,Investment Banking,0
+1247,Male,TRUE,3.29,Business,NA,700,4,Technology,0
+1248,Male,FALSE,3.29,STEM,White,600,6,Other,0
+1252,Male,TRUE,3.31,Humanities,NA,630,5,Consulting,0
+1253,Female,FALSE,3.2,Humanities,White,570,3,Consulting,0
+1262,Female,FALSE,3.09,Humanities,Asian,660,5,Financial Services,0
+1266,Male,FALSE,3.27,Humanities,Asian,670,5,PE/VC,0
+1267,Female,FALSE,3.19,Business,Black,620,6,Media/Entertainment,0
+1268,Male,FALSE,3.25,STEM,White,680,5,Investment Management,1
+1272,Female,TRUE,3.27,Humanities,NA,690,6,Consulting,1
+1290,Male,FALSE,3.19,STEM,Hispanic,690,5,Consulting,0
+1291,Male,FALSE,3.27,STEM,Black,600,5,Technology,0
+1292,Female,FALSE,3.65,Business,White,660,5,Investment Banking,1
+1293,Male,FALSE,3.41,Humanities,Asian,770,5,Consulting,0
+1294,Male,TRUE,2.93,Humanities,NA,610,7,Consulting,0
+1295,Male,TRUE,3.33,STEM,NA,730,5,Investment Management,1
+1296,Male,FALSE,3.21,Business,Hispanic,670,4,PE/VC,0
+1297,Female,FALSE,3.23,STEM,White,710,4,Consulting,1
+1300,Male,FALSE,3.55,Humanities,Asian,670,3,Investment Management,1
+1302,Female,FALSE,3.51,Humanities,Hispanic,740,5,Financial Services,1
+1307,Female,FALSE,3.28,Business,Black,650,5,Technology,0
+1309,Male,TRUE,3.51,STEM,NA,710,5,Other,0
+1315,Female,FALSE,3.33,STEM,Hispanic,680,5,PE/VC,1
+1323,Female,FALSE,3.23,STEM,White,650,5,Investment Banking,0
+1332,Male,FALSE,3.22,STEM,White,660,7,Nonprofit/Gov,0
+1340,Female,FALSE,3.38,Humanities,Asian,670,6,Investment Banking,1
+1341,Male,FALSE,3.09,STEM,Asian,630,6,Technology,0
+1345,Female,FALSE,3.44,Humanities,Asian,730,5,Consulting,0
+1346,Male,TRUE,3.47,STEM,NA,720,7,Investment Banking,1
+1347,Male,TRUE,3.31,Humanities,NA,690,4,PE/VC,1
+1351,Male,FALSE,3.01,Humanities,White,600,5,Investment Banking,0
+1356,Male,TRUE,3.4,STEM,NA,690,5,Investment Banking,1
+1358,Male,TRUE,3.45,Humanities,NA,720,5,PE/VC,1
+1360,Female,FALSE,3.43,Humanities,Black,670,5,Consulting,1
+1361,Male,FALSE,2.93,Humanities,White,570,5,Nonprofit/Gov,0
+1363,Male,FALSE,3.16,STEM,White,590,5,Consulting,0
+1365,Male,TRUE,3.18,STEM,NA,640,6,Consulting,0
+1375,Female,FALSE,3.58,Humanities,Asian,740,6,Consulting,0
+1376,Male,TRUE,3.12,Business,NA,630,5,Investment Banking,0
+1377,Male,FALSE,3.58,STEM,Black,660,5,Technology,1
+1379,Male,FALSE,3.28,Business,Asian,620,5,Nonprofit/Gov,0
+1380,Female,FALSE,3.34,Humanities,Hispanic,670,4,Consulting,0
+1381,Male,FALSE,3.53,Business,White,690,5,Nonprofit/Gov,1
+1382,Female,FALSE,3.32,Humanities,Other,670,5,Consulting,1
+1387,Female,TRUE,3.33,Business,NA,620,5,Consulting,0
+1388,Female,FALSE,3.41,STEM,Asian,750,5,Financial Services,1
+1391,Male,TRUE,3.08,Humanities,NA,580,6,Consulting,0
+1395,Male,TRUE,3.07,Business,NA,600,5,Financial Services,0
+1396,Male,TRUE,3.49,STEM,NA,670,5,Consulting,1
+1403,Male,FALSE,3.32,Business,White,650,6,Consulting,0
+1405,Male,FALSE,3.3,STEM,Asian,630,5,Health Care,0
+1407,Male,FALSE,3.37,Business,Black,610,4,Nonprofit/Gov,0
+1410,Female,FALSE,3.21,Business,Hispanic,570,6,Consulting,0
+1414,Male,TRUE,3.58,Humanities,NA,690,4,Consulting,0
+1421,Male,FALSE,3.51,Business,White,740,5,Investment Banking,1
+1424,Male,FALSE,3.1,Business,White,670,7,Consulting,0
+1430,Male,FALSE,3.06,Humanities,Black,610,7,Financial Services,0
+1433,Male,FALSE,3.26,Humanities,Black,660,6,Retail,0
+1442,Female,TRUE,3.29,Business,NA,580,6,Nonprofit/Gov,0
+1447,Female,FALSE,3.42,Humanities,Asian,720,6,Health Care,1
+1449,Female,FALSE,3.29,Humanities,White,690,5,Technology,0
+1452,Female,FALSE,3.55,STEM,White,620,5,Nonprofit/Gov,0
+1454,Male,TRUE,3.58,Business,NA,730,6,Other,1
+1458,Male,TRUE,3.31,STEM,NA,680,4,Consulting,1
+1461,Male,FALSE,3.17,STEM,Black,570,6,Financial Services,0
+1463,Female,FALSE,3.45,Humanities,Asian,690,5,CPG,1
+1470,Male,TRUE,3.15,Business,NA,610,7,Consulting,0
+1473,Female,FALSE,3.17,Humanities,Hispanic,700,5,Real Estate,0
+1474,Male,FALSE,3.19,STEM,White,660,6,Health Care,0
+1489,Male,TRUE,3.22,Humanities,NA,680,6,Technology,1
+1495,Female,TRUE,3.22,STEM,NA,570,5,Consulting,0
+1497,Male,FALSE,3.53,Business,White,750,5,PE/VC,1
+1503,Female,TRUE,3.16,Business,NA,620,3,Nonprofit/Gov,0
+1504,Female,FALSE,3.42,STEM,White,740,5,Nonprofit/Gov,1
+1505,Male,FALSE,3.52,Humanities,Other,710,6,PE/VC,1
+1508,Male,FALSE,3.33,Business,Asian,760,6,PE/VC,1
+1513,Female,FALSE,3.43,STEM,Asian,700,3,PE/VC,1
+1516,Male,FALSE,2.97,STEM,White,600,5,Nonprofit/Gov,0
+1519,Male,FALSE,3.2,STEM,Black,700,5,PE/VC,0
+1523,Male,TRUE,3.2,STEM,NA,670,4,Nonprofit/Gov,0
+1524,Male,FALSE,3.09,Humanities,White,590,7,Investment Banking,0
+1528,Male,FALSE,3.25,Humanities,Hispanic,650,5,Consulting,0
+1535,Female,FALSE,3.21,STEM,Asian,660,6,Technology,1
+1536,Male,FALSE,3.14,Business,White,580,5,PE/VC,0
+1540,Male,TRUE,3.18,Business,NA,630,4,Other,0
+1543,Female,FALSE,3.12,Business,Black,670,4,Financial Services,0
+1546,Female,TRUE,3.3,Humanities,NA,670,5,Technology,0
+1552,Female,FALSE,3.31,Humanities,White,660,5,Technology,1
+1555,Female,FALSE,3.21,Business,White,730,5,Nonprofit/Gov,1
+1557,Male,TRUE,3.28,STEM,NA,610,6,Technology,0
+1558,Female,TRUE,3.35,Business,NA,650,4,Nonprofit/Gov,0
+1564,Female,FALSE,3.38,Humanities,Hispanic,630,3,PE/VC,0
+1565,Male,FALSE,3.51,STEM,White,710,5,Investment Management,1
+1572,Male,TRUE,3.24,Humanities,NA,670,5,Health Care,0
+1576,Male,FALSE,3.2,STEM,Asian,700,7,Financial Services,0
+1580,Female,TRUE,3.4,Humanities,NA,700,5,PE/VC,1
+1581,Male,TRUE,3.05,STEM,NA,570,6,Technology,0
+1585,Male,TRUE,3.36,Humanities,NA,720,6,PE/VC,1
+1596,Male,FALSE,3.43,STEM,White,660,6,Technology,1
+1599,Male,TRUE,3.22,Humanities,NA,580,5,Investment Management,0
+1601,Female,FALSE,3.33,STEM,Hispanic,700,4,Nonprofit/Gov,1
+1608,Female,FALSE,3.33,Humanities,White,690,3,Consulting,1
+1620,Male,FALSE,3.31,Business,White,660,6,PE/VC,1
+1628,Male,FALSE,3.45,STEM,Black,700,3,Technology,0
+1629,Male,TRUE,3.24,Humanities,NA,610,3,Financial Services,0
+1631,Female,FALSE,3.19,Business,Black,610,5,Nonprofit/Gov,0
+1632,Male,FALSE,3.62,Business,Asian,760,5,Investment Banking,0
+1636,Male,TRUE,3.01,STEM,NA,590,5,Real Estate,0
+1638,Male,FALSE,3.34,Business,White,680,5,PE/VC,0
+1646,Male,FALSE,3.47,Humanities,Black,740,6,Consulting,1
+1650,Male,FALSE,3.44,Humanities,Other,720,4,Consulting,1
+1651,Male,TRUE,3.5,Humanities,NA,730,5,Consulting,1
+1654,Male,FALSE,3.23,Humanities,Other,700,5,Nonprofit/Gov,0
+1659,Male,FALSE,3.14,Humanities,White,650,3,Consulting,0
+1661,Male,TRUE,3.31,STEM,NA,760,6,Investment Banking,0
+1663,Female,FALSE,3.35,Business,White,700,7,Consulting,1
+1668,Male,FALSE,3.45,Humanities,White,660,5,Financial Services,1
+1674,Male,TRUE,3.11,Business,NA,570,5,Health Care,0
+1676,Male,TRUE,3.3,Humanities,NA,590,6,Technology,0
+1682,Male,TRUE,3.27,STEM,NA,590,6,Health Care,0
+1683,Male,FALSE,3.33,STEM,White,710,4,Financial Services,1
+1687,Female,FALSE,3.43,STEM,Black,660,6,Financial Services,1
+1691,Male,FALSE,3.56,STEM,Black,720,3,PE/VC,0
+1697,Female,FALSE,3.43,Humanities,Asian,690,5,Investment Management,1
+1698,Female,FALSE,2.78,Humanities,White,570,6,Financial Services,0
+1699,Male,FALSE,3.26,STEM,White,690,5,Consulting,0
+1707,Female,FALSE,3.27,Humanities,Asian,700,5,Technology,1
+1711,Male,FALSE,3.43,Humanities,Asian,680,6,CPG,1
+1714,Male,FALSE,3.32,STEM,Black,740,5,PE/VC,1
+1715,Male,FALSE,3.64,Business,White,780,6,Consulting,0
+1718,Female,FALSE,3.36,Business,White,680,5,Consulting,1
+1727,Male,FALSE,3.29,Humanities,Other,710,4,Consulting,1
+1728,Female,TRUE,3.48,Business,NA,720,4,PE/VC,0
+1734,Male,FALSE,3.21,Humanities,White,610,5,Other,0
+1738,Male,TRUE,3.12,Business,NA,620,5,Technology,0
+1739,Male,TRUE,3.56,STEM,NA,720,5,Financial Services,0
+1741,Female,TRUE,3.38,STEM,NA,670,5,Other,1
+1742,Female,TRUE,3.47,STEM,NA,690,4,Technology,1
+1748,Female,FALSE,3.26,Business,Asian,630,5,Consulting,0
+1750,Male,FALSE,3.17,Humanities,Hispanic,690,5,PE/VC,0
+1757,Female,FALSE,3.35,Humanities,Asian,650,6,Investment Banking,0
+1759,Male,FALSE,3.58,STEM,Black,750,4,Financial Services,0
+1761,Male,TRUE,3.38,Humanities,NA,710,5,Technology,1
+1764,Male,TRUE,3.5,STEM,NA,710,6,Financial Services,1
+1770,Male,TRUE,3.28,Business,NA,690,6,Financial Services,1
+1780,Male,FALSE,3.23,Humanities,Asian,650,3,Health Care,0
+1784,Female,TRUE,3.33,Humanities,NA,660,4,PE/VC,0
+1789,Female,TRUE,3.25,Humanities,NA,710,6,Other,1
+1792,Male,TRUE,3.24,STEM,NA,670,8,Investment Management,1
+1793,Male,FALSE,3.29,Business,Black,700,5,Consulting,0
+1798,Male,FALSE,3.14,STEM,Black,680,3,Consulting,0
+1800,Male,FALSE,3.44,Humanities,White,700,7,PE/VC,0
+1802,Male,FALSE,3.45,STEM,White,670,6,Consulting,0
+1805,Male,FALSE,2.99,Humanities,White,570,5,Financial Services,0
+1807,Female,TRUE,2.98,Humanities,NA,580,5,Investment Banking,0
+1810,Male,FALSE,3.38,Business,White,640,5,Consulting,0
+1820,Male,FALSE,3.35,STEM,White,670,5,Financial Services,1
+1825,Male,FALSE,3.25,Humanities,White,610,4,Other,0
+1827,Male,TRUE,3.21,Humanities,NA,730,3,Consulting,1
+1828,Male,FALSE,3.32,Humanities,Asian,710,6,PE/VC,1
+1832,Female,TRUE,3.24,Humanities,NA,650,3,CPG,0
+1837,Male,TRUE,3.29,STEM,NA,660,5,Nonprofit/Gov,0
+1839,Male,FALSE,3.44,Humanities,Black,650,6,Consulting,0
+1846,Male,FALSE,3.15,STEM,Hispanic,570,6,Technology,0
+1848,Male,FALSE,3.1,STEM,White,660,5,Investment Banking,0
+1850,Female,FALSE,3.38,STEM,White,730,6,Technology,1
+1851,Male,FALSE,2.96,Humanities,Black,610,6,Investment Banking,0
+1852,Male,TRUE,3.11,STEM,NA,600,6,Real Estate,0
+1854,Male,TRUE,3.36,Humanities,NA,640,6,Nonprofit/Gov,0
+1857,Female,FALSE,3.21,Business,Hispanic,570,4,Nonprofit/Gov,0
+1858,Male,FALSE,3.65,Humanities,Asian,760,4,PE/VC,1
+1859,Male,TRUE,3.27,STEM,NA,670,6,PE/VC,1
+1863,Male,FALSE,3.28,Humanities,Hispanic,710,5,Investment Banking,1
+1864,Female,TRUE,3.24,Humanities,NA,710,4,Technology,1
+1865,Male,FALSE,3.29,Business,White,650,6,PE/VC,0
+1866,Male,FALSE,3.26,STEM,Other,660,6,Consulting,1
+1867,Male,FALSE,3.16,Humanities,Hispanic,710,6,PE/VC,0
+1869,Male,FALSE,3.1,Business,Asian,630,3,Financial Services,0
+1873,Female,FALSE,3.42,Business,Asian,670,6,Technology,1
+1875,Female,FALSE,3.13,Business,Hispanic,640,6,PE/VC,0
+1877,Female,TRUE,3.13,Business,NA,650,6,Other,0
+1878,Male,FALSE,3.1,Business,Asian,630,5,Investment Banking,0
+1885,Male,FALSE,3.29,STEM,Hispanic,670,5,Other,0
+1886,Male,TRUE,3.19,Humanities,NA,680,5,Technology,0
+1892,Male,FALSE,3.5,Humanities,Black,700,5,Other,1
+1893,Female,FALSE,3.37,Humanities,Black,680,7,Financial Services,1
+1895,Male,TRUE,3.33,Business,NA,680,4,Financial Services,1
+1897,Male,TRUE,3.42,STEM,NA,730,7,PE/VC,0
+1898,Female,FALSE,3.39,Humanities,White,780,4,Other,1
+1900,Male,FALSE,3.39,Humanities,White,660,6,Health Care,1
+1902,Female,FALSE,3.4,Humanities,Hispanic,660,5,Consulting,1
+1905,Male,FALSE,3.45,Humanities,Black,630,6,Technology,0
+1912,Male,TRUE,3.65,STEM,NA,730,5,Consulting,1
+1916,Male,TRUE,3.34,STEM,NA,610,6,Nonprofit/Gov,0
+1917,Male,TRUE,3.34,Humanities,NA,760,4,Nonprofit/Gov,0
+1918,Male,FALSE,3.43,Business,White,650,4,CPG,0
+1924,Male,FALSE,3.23,Business,Other,680,5,Nonprofit/Gov,1
+1925,Male,TRUE,3.1,Humanities,NA,710,4,Health Care,0
+1929,Female,FALSE,2.99,Business,Black,570,5,Consulting,0
+1935,Male,TRUE,3.17,STEM,NA,590,6,Consulting,0
+1937,Male,FALSE,3.26,Business,Asian,690,4,Technology,1
+1944,Female,FALSE,3.32,STEM,White,720,2,Media/Entertainment,1
+1947,Male,FALSE,3.21,Business,Black,620,6,Investment Banking,0
+1948,Male,TRUE,3.28,Humanities,NA,680,5,Nonprofit/Gov,0
+1950,Male,TRUE,3.41,Humanities,NA,710,5,Technology,0
+1951,Male,TRUE,3.23,STEM,NA,570,6,Technology,0
+1957,Male,FALSE,3.25,Humanities,White,660,5,Financial Services,1
+1960,Female,FALSE,3.16,Humanities,Asian,630,3,Technology,0
+1962,Female,FALSE,3.23,Humanities,White,660,5,PE/VC,0
+1965,Male,FALSE,3.33,Humanities,Asian,670,5,Financial Services,1
+1966,Male,FALSE,3.35,STEM,White,680,3,CPG,0
+1969,Male,FALSE,3.2,Humanities,Hispanic,570,5,Nonprofit/Gov,0
+1972,Male,FALSE,3.42,STEM,White,730,6,Consulting,1
+1973,Female,FALSE,3.31,Humanities,White,760,6,Consulting,1
+1982,Male,FALSE,3.1,STEM,Black,690,3,PE/VC,0
+1984,Male,FALSE,3.33,STEM,White,690,7,CPG,1
+1987,Female,TRUE,3.33,Humanities,NA,690,4,Financial Services,1
+1988,Female,TRUE,3.2,Business,NA,640,6,Energy,0
+1989,Female,FALSE,3.43,Humanities,White,720,7,Consulting,1
+1991,Male,FALSE,3.36,Business,Black,680,5,Consulting,1
+1997,Male,FALSE,3.59,STEM,White,700,6,Other,1
+2005,Female,FALSE,3.27,Business,White,660,4,Health Care,1
+2007,Male,TRUE,3.25,Business,NA,730,6,Financial Services,1
+2010,Male,FALSE,3.28,Humanities,Asian,690,5,Financial Services,0
+2011,Male,FALSE,3.22,STEM,White,670,4,Other,1
+2015,Male,FALSE,3.25,STEM,White,650,6,Technology,0
+2019,Male,TRUE,3.41,Business,NA,680,6,Financial Services,0
+2020,Female,FALSE,3.47,Business,Asian,660,6,Consulting,0
+2022,Female,FALSE,3,Humanities,Asian,600,5,PE/VC,0
+2027,Female,FALSE,3.42,Business,Black,730,4,CPG,1
+2029,Male,TRUE,3.23,Business,NA,700,4,Consulting,0
+2035,Male,FALSE,3.19,Business,White,660,5,Technology,0
+2036,Male,FALSE,3.26,Business,Black,660,5,Technology,1
+2038,Female,FALSE,3.38,STEM,White,660,5,Financial Services,1
+2043,Male,FALSE,3.19,STEM,White,650,6,Other,0
+2050,Female,FALSE,3.28,Business,Black,730,4,PE/VC,1
+2051,Male,FALSE,3.32,Business,Hispanic,670,5,Real Estate,1
+2052,Male,FALSE,3.24,Business,White,570,6,Consulting,0
+2054,Female,FALSE,3.41,Business,White,690,4,Consulting,1
+2055,Female,TRUE,3.35,Business,NA,750,7,Real Estate,1
+2056,Male,FALSE,3.27,Humanities,Black,650,4,Consulting,0
+2057,Male,TRUE,3.43,Business,NA,700,5,Technology,1
+2061,Male,TRUE,3.15,Business,NA,650,5,Investment Banking,0
+2064,Female,FALSE,3.21,Business,Asian,660,5,Financial Services,1
+2065,Male,TRUE,3.18,Business,NA,640,6,Consulting,0
+2068,Female,FALSE,3.33,Humanities,Asian,610,4,PE/VC,0
+2069,Male,FALSE,3.31,Humanities,Asian,610,5,Consulting,0
+2073,Female,FALSE,3.14,STEM,White,570,7,PE/VC,0
+2075,Male,FALSE,3.44,Humanities,Asian,670,6,Consulting,1
+2076,Male,FALSE,3.27,STEM,Asian,680,6,Consulting,1
+2078,Male,TRUE,3.13,Humanities,NA,640,4,Consulting,0
+2080,Male,TRUE,3.34,Humanities,NA,640,5,Consulting,0
+2085,Male,FALSE,3.28,STEM,Asian,680,7,Nonprofit/Gov,1
+2097,Female,FALSE,3.13,Humanities,White,620,5,PE/VC,0
+2104,Male,FALSE,3.27,Business,Asian,670,6,CPG,1
+2107,Female,FALSE,3.37,Humanities,Black,670,4,Technology,1
+2108,Male,FALSE,3.31,STEM,White,680,7,Technology,1
+2109,Female,FALSE,3.24,STEM,Asian,670,5,Other,1
+2113,Male,FALSE,3.03,STEM,White,570,4,Consulting,0
+2116,Male,FALSE,3.17,STEM,Asian,570,5,Nonprofit/Gov,0
+2117,Female,TRUE,3.22,STEM,NA,720,7,Nonprofit/Gov,1
+2119,Female,TRUE,3.41,Business,NA,730,5,PE/VC,1
+2120,Male,TRUE,3.3,Humanities,NA,680,5,CPG,1
+2122,Male,TRUE,3.24,STEM,NA,680,5,Other,1
+2124,Male,TRUE,3.1,STEM,NA,610,5,Real Estate,0
+2125,Female,FALSE,3.3,STEM,Hispanic,700,6,Retail,1
+2129,Male,FALSE,3.26,Business,Other,620,5,Nonprofit/Gov,0
+2137,Male,FALSE,3.53,Humanities,White,740,5,PE/VC,1
+2138,Male,FALSE,3.2,Humanities,White,670,4,PE/VC,0
+2144,Female,FALSE,3.19,Humanities,Asian,620,6,Consulting,0
+2146,Female,FALSE,3.24,Business,Black,700,5,Health Care,0
+2148,Male,TRUE,3.4,STEM,NA,690,4,PE/VC,1
+2152,Female,FALSE,3.18,Business,Asian,580,5,Investment Banking,0
+2155,Male,FALSE,3.11,STEM,Asian,610,5,Investment Banking,0
+2162,Male,FALSE,3.48,Business,Hispanic,660,4,Real Estate,1
+2163,Female,FALSE,3.36,Humanities,Black,680,5,Consulting,0
+2164,Male,TRUE,3.46,Business,NA,620,6,Media/Entertainment,0
+2166,Female,TRUE,3.36,Humanities,NA,720,6,Consulting,1
+2173,Male,TRUE,3.32,Business,NA,660,5,Nonprofit/Gov,1
+2175,Female,FALSE,3.3,Humanities,Hispanic,700,5,Consulting,0
+2181,Male,FALSE,3.23,STEM,White,710,5,Consulting,0
+2182,Male,FALSE,3.32,Humanities,White,670,6,Consulting,0
+2196,Female,FALSE,3.38,STEM,White,680,7,Financial Services,0
+2198,Male,TRUE,3.42,Humanities,NA,690,5,Health Care,1
+2202,Male,TRUE,3.18,Humanities,NA,640,3,Consulting,0
+2204,Male,FALSE,3.47,Business,Asian,670,5,Nonprofit/Gov,1
+2205,Male,FALSE,3.46,Humanities,White,690,5,Nonprofit/Gov,0
+2207,Male,FALSE,3.3,STEM,White,720,6,Nonprofit/Gov,1
+2208,Male,TRUE,3.27,Business,NA,610,5,Consulting,0
+2212,Male,TRUE,3.39,STEM,NA,670,4,Technology,0
+2217,Male,FALSE,3.25,STEM,White,600,5,Investment Banking,0
+2219,Male,FALSE,3.35,Humanities,White,740,5,Nonprofit/Gov,1
+2221,Female,FALSE,3.46,Business,Black,780,6,Nonprofit/Gov,0
+2227,Female,TRUE,3.22,Business,NA,660,4,Nonprofit/Gov,1
+2228,Male,FALSE,3.45,Humanities,White,670,4,Investment Banking,1
+2229,Male,FALSE,3.61,Business,White,680,4,PE/VC,1
+2231,Male,FALSE,3.62,Humanities,White,720,6,Consulting,1
+2236,Female,FALSE,3.04,Business,White,630,3,Retail,0
+2238,Female,FALSE,3.64,Humanities,Other,780,5,Consulting,0
+2245,Female,FALSE,3.32,Business,White,650,8,Consulting,0
+2246,Male,FALSE,3.42,Humanities,Asian,660,6,Real Estate,1
+2254,Male,FALSE,3.35,Business,Asian,780,5,Financial Services,1
+2257,Female,FALSE,3.26,Business,Asian,640,5,Consulting,0
+2263,Male,FALSE,3.13,STEM,Asian,610,4,Other,0
+2264,Female,TRUE,3.3,Humanities,NA,700,5,Other,0
+2274,Female,FALSE,3.11,Humanities,Black,620,5,Technology,0
+2278,Male,FALSE,3.31,Humanities,Hispanic,600,4,Nonprofit/Gov,0
+2279,Male,TRUE,3.58,STEM,NA,700,5,Consulting,1
+2281,Male,TRUE,3.33,STEM,NA,690,5,Financial Services,1
+2284,Male,FALSE,3.2,STEM,Asian,620,6,Health Care,0
+2286,Male,FALSE,3.05,STEM,Black,660,4,Consulting,0
+2288,Male,FALSE,3.11,Humanities,Hispanic,640,4,Financial Services,0
+2289,Female,TRUE,3.37,STEM,NA,660,5,Investment Management,1
+2290,Male,FALSE,3.36,Humanities,White,720,6,PE/VC,0
+2291,Female,FALSE,3.28,Business,White,670,7,Technology,1
+2295,Female,FALSE,3.3,Humanities,Asian,670,4,Real Estate,0
+2296,Female,FALSE,3.34,STEM,Black,680,6,PE/VC,1
+2297,Male,FALSE,3.32,Business,Asian,660,7,Investment Banking,1
+2300,Female,FALSE,3.21,STEM,Hispanic,680,5,Nonprofit/Gov,0
+2303,Female,FALSE,3.37,Business,Black,640,4,Other,0
+2308,Male,TRUE,3.2,Humanities,NA,580,5,Consulting,0
+2309,Male,FALSE,3.16,Business,White,660,5,Consulting,0
+2311,Male,FALSE,3.33,Business,Hispanic,700,6,Consulting,1
+2313,Female,FALSE,3.26,Humanities,White,690,6,PE/VC,0
+2315,Male,FALSE,3.02,Business,White,610,5,Consulting,0
+2317,Female,FALSE,3.3,STEM,Asian,610,7,Nonprofit/Gov,0
+2319,Female,FALSE,2.78,Business,Asian,570,5,Consulting,0
+2330,Male,FALSE,3.35,Humanities,Hispanic,740,7,Nonprofit/Gov,0
+2332,Female,TRUE,3.33,Business,NA,680,5,Real Estate,0
+2334,Male,FALSE,3.36,Business,Black,690,6,CPG,1
+2345,Male,FALSE,3.45,Humanities,White,690,5,Other,1
+2349,Female,FALSE,3.36,Humanities,Black,670,4,Investment Management,1
+2352,Female,TRUE,2.92,Business,NA,620,3,Investment Banking,0
+2354,Female,FALSE,3.26,Humanities,Asian,670,6,Other,1
+2355,Male,TRUE,3,Humanities,NA,570,3,Investment Management,0
+2356,Male,FALSE,3.53,Business,White,670,6,Investment Management,1
+2360,Male,TRUE,3.4,STEM,NA,770,3,PE/VC,1
+2361,Female,FALSE,3.44,Business,White,780,6,Consulting,0
+2368,Female,FALSE,3.43,Business,Asian,720,6,Consulting,1
+2374,Male,FALSE,3.13,Business,White,650,6,PE/VC,0
+2375,Female,TRUE,3.32,Humanities,NA,640,6,Consulting,0
+2378,Male,FALSE,3.33,Business,White,690,5,Investment Banking,1
+2379,Female,TRUE,3.38,Humanities,NA,720,6,Nonprofit/Gov,0
+2384,Male,TRUE,3.13,Humanities,NA,580,4,Nonprofit/Gov,0
+2386,Female,FALSE,3.48,Humanities,Black,690,7,Consulting,1
+2387,Male,FALSE,3.15,Business,White,590,3,Other,0
+2389,Female,TRUE,3.25,Humanities,NA,660,6,PE/VC,0
+2393,Male,FALSE,3.32,STEM,Hispanic,690,6,Nonprofit/Gov,1
+2398,Female,FALSE,3.35,Humanities,Black,730,5,Investment Banking,1
+2407,Male,FALSE,3.11,STEM,White,610,3,Investment Banking,0
+2409,Female,TRUE,3.16,Humanities,NA,620,4,Consulting,0
+2410,Female,TRUE,3.45,Humanities,NA,690,5,PE/VC,1
+2414,Male,FALSE,3.28,Humanities,White,690,5,Investment Banking,0
+2419,Male,FALSE,3.16,Business,Black,570,6,PE/VC,0
+2421,Male,FALSE,3.39,Humanities,Black,700,5,Financial Services,1
+2425,Female,TRUE,2.92,Humanities,NA,580,5,Consulting,0
+2426,Male,FALSE,3.2,STEM,Other,620,4,Health Care,0
+2427,Male,FALSE,3.28,Business,White,640,5,PE/VC,0
+2431,Female,FALSE,3.28,Humanities,Other,710,4,PE/VC,0
+2436,Male,FALSE,3.43,Humanities,Hispanic,690,6,Investment Banking,0
+2437,Male,FALSE,3.37,Business,White,670,6,Consulting,0
+2442,Female,FALSE,3.4,Humanities,White,690,5,Financial Services,0
+2447,Female,FALSE,3.5,Business,Asian,700,6,Financial Services,0
+2459,Male,TRUE,3.16,STEM,NA,650,5,PE/VC,0
+2461,Male,FALSE,3.49,Humanities,White,660,5,PE/VC,1
+2465,Female,FALSE,2.98,Humanities,Asian,600,5,PE/VC,0
+2467,Male,FALSE,3.35,STEM,White,730,5,Consulting,1
+2474,Female,FALSE,3.26,Humanities,Hispanic,580,5,PE/VC,0
+2475,Female,TRUE,3.55,Business,NA,720,4,Nonprofit/Gov,0
+2476,Male,TRUE,3.38,Humanities,NA,680,6,Investment Banking,0
+2477,Female,TRUE,3.27,Business,NA,710,7,Consulting,0
+2489,Female,FALSE,3.12,STEM,White,670,7,Consulting,0
+2490,Female,FALSE,3.22,Humanities,White,680,6,Consulting,1
+2496,Male,TRUE,3.39,Business,NA,720,4,Investment Banking,0
+2500,Male,TRUE,3.27,STEM,NA,620,6,Investment Banking,0
+2506,Male,TRUE,3.29,Humanities,NA,710,6,PE/VC,1
+2509,Male,TRUE,3.6,Humanities,NA,760,4,PE/VC,0
+2512,Female,FALSE,3.05,Humanities,Asian,590,5,Investment Management,0
+2514,Female,FALSE,3.06,Humanities,Asian,590,5,Investment Banking,0
+2518,Female,FALSE,3.24,Humanities,Hispanic,640,3,Consulting,0
+2519,Female,FALSE,3.23,STEM,Hispanic,660,4,Financial Services,1
+2521,Male,TRUE,3.49,STEM,NA,650,5,Investment Banking,0
+2525,Male,TRUE,3.25,Humanities,NA,570,5,Investment Banking,0
+2533,Male,FALSE,3.36,Humanities,Hispanic,740,6,Consulting,1
+2539,Male,TRUE,3.19,Humanities,NA,620,4,Consulting,0
+2543,Male,FALSE,3.29,STEM,Black,700,6,PE/VC,1
+2546,Male,FALSE,3.46,Humanities,Asian,720,4,Nonprofit/Gov,1
+2547,Male,FALSE,3.09,Humanities,Asian,570,5,Consulting,0
+2566,Female,FALSE,3.3,Humanities,White,660,4,Other,1
+2567,Male,FALSE,3.2,STEM,Asian,640,6,CPG,0
+2572,Male,FALSE,3.33,STEM,White,630,5,Nonprofit/Gov,0
+2584,Male,FALSE,3.63,Business,White,720,5,Technology,1
+2587,Female,FALSE,3.41,Humanities,Hispanic,640,5,Nonprofit/Gov,0
+2588,Female,FALSE,3.36,Humanities,Hispanic,670,7,PE/VC,0
+2589,Male,FALSE,3.42,STEM,Asian,780,5,Investment Banking,1
+2591,Male,FALSE,3.56,STEM,Black,670,6,Technology,1
+2592,Female,FALSE,3.35,Humanities,White,680,4,CPG,1
+2593,Male,FALSE,3.2,Humanities,White,590,7,Consulting,0
+2595,Male,TRUE,3.4,Business,NA,700,4,Other,1
+2596,Female,FALSE,3.33,STEM,Asian,720,6,Other,0
+2607,Male,TRUE,3.2,Humanities,NA,650,7,Nonprofit/Gov,0
+2609,Female,FALSE,3.28,Business,Asian,720,6,Consulting,1
+2612,Female,FALSE,3.22,Business,Black,660,4,Investment Banking,1
+2619,Male,FALSE,3.49,Business,White,720,5,Consulting,1
+2622,Female,FALSE,3.53,Humanities,Asian,740,5,Consulting,1
+2628,Male,FALSE,3.07,STEM,Asian,570,6,Real Estate,0
+2629,Male,TRUE,3.31,STEM,NA,610,5,Financial Services,0
+2636,Male,FALSE,3.43,Humanities,Other,710,5,Technology,1
+2647,Male,TRUE,3.1,Humanities,NA,600,6,PE/VC,0
+2648,Male,FALSE,3.43,STEM,Hispanic,660,5,PE/VC,1
+2652,Female,TRUE,3.09,Business,NA,700,6,Health Care,0
+2653,Male,FALSE,3.3,Business,Other,660,4,Investment Banking,1
+2654,Male,FALSE,3.27,STEM,White,670,5,Investment Management,1
+2657,Male,FALSE,3.49,Humanities,Hispanic,690,6,Financial Services,1
+2658,Male,FALSE,3.29,Business,Asian,690,5,Health Care,1
+2661,Male,TRUE,3.55,Business,NA,750,5,Consulting,1
+2663,Male,FALSE,3.42,Business,Hispanic,630,5,PE/VC,0
+2668,Female,TRUE,3.15,Humanities,NA,650,8,Financial Services,0
+2671,Male,TRUE,3.33,Business,NA,610,6,Consulting,0
+2672,Male,FALSE,3.31,STEM,Asian,670,4,Consulting,1
+2676,Male,TRUE,3.15,Business,NA,640,4,Consulting,0
+2678,Male,TRUE,3.38,STEM,NA,720,4,Investment Banking,1
+2682,Female,FALSE,3.31,Humanities,Asian,660,5,Investment Banking,1
+2683,Male,FALSE,3.34,Humanities,Hispanic,650,5,CPG,0
+2684,Female,FALSE,3.44,Humanities,Asian,690,6,Technology,1
+2685,Male,FALSE,3.33,STEM,White,630,6,Consulting,0
+2686,Female,TRUE,3.39,STEM,NA,710,5,Investment Banking,1
+2690,Female,FALSE,3.37,STEM,Black,680,5,Consulting,1
+2693,Male,FALSE,3.29,Humanities,White,670,5,Consulting,1
+2694,Male,FALSE,3.37,STEM,Asian,680,5,Nonprofit/Gov,1
+2698,Female,TRUE,3.31,Business,NA,650,5,Financial Services,0
+2706,Male,FALSE,3.34,STEM,White,630,7,Investment Banking,0
+2708,Male,FALSE,3.38,Business,White,690,4,Nonprofit/Gov,1
+2715,Male,FALSE,3.21,Business,White,670,5,Other,1
+2725,Female,FALSE,3.42,Business,Asian,670,3,Technology,1
+2730,Female,FALSE,3.36,Business,Black,680,4,Nonprofit/Gov,1
+2734,Female,FALSE,3.1,Business,Black,630,4,Investment Banking,0
+2741,Female,FALSE,3.25,STEM,Black,670,5,Technology,1
+2742,Male,FALSE,3.38,Business,White,700,5,Consulting,1
+2745,Male,TRUE,3.15,Business,NA,610,5,Consulting,0
+2746,Male,FALSE,3.53,Business,Black,690,5,Consulting,1
+2755,Female,FALSE,3.19,Humanities,Hispanic,590,5,Other,0
+2761,Male,TRUE,3.24,STEM,NA,690,5,Technology,0
+2764,Male,FALSE,3.26,Business,Asian,680,6,Technology,1
+2765,Male,TRUE,3.02,STEM,NA,570,3,PE/VC,0
+2766,Female,FALSE,3.07,STEM,Black,600,4,Technology,0
+2767,Female,FALSE,3.33,Humanities,White,660,5,Consulting,1
+2772,Male,TRUE,3.31,Business,NA,750,6,Consulting,1
+2774,Male,FALSE,3.71,Business,Asian,780,4,Health Care,0
+2775,Male,TRUE,3.4,STEM,NA,680,6,PE/VC,1
+2776,Male,TRUE,3.39,Humanities,NA,730,5,Consulting,1
+2784,Female,FALSE,3.15,STEM,White,600,5,Investment Banking,0
+2786,Male,FALSE,3.21,STEM,Asian,690,6,PE/VC,1
+2790,Male,FALSE,3.53,Humanities,Hispanic,740,5,Consulting,1
+2793,Male,TRUE,3.27,Humanities,NA,660,4,Consulting,0
+2798,Male,TRUE,3.47,Humanities,NA,770,5,Technology,1
+2802,Male,TRUE,3.3,STEM,NA,710,6,PE/VC,1
+2803,Male,FALSE,3.26,Humanities,White,670,4,Nonprofit/Gov,1
+2805,Male,FALSE,3.41,STEM,White,740,5,Consulting,0
+2817,Male,FALSE,3.27,STEM,Black,590,6,Investment Banking,0
+2819,Male,FALSE,3.5,STEM,White,680,5,Financial Services,1
+2824,Male,FALSE,3.14,Business,Black,640,5,Consulting,0
+2825,Female,FALSE,3.23,Humanities,White,600,6,Consulting,0
+2827,Female,TRUE,3.34,Business,NA,720,5,Financial Services,1
+2829,Male,FALSE,3.3,STEM,Hispanic,690,6,Consulting,0
+2833,Male,FALSE,3.05,Business,Black,610,7,Financial Services,0
+2842,Male,FALSE,3.31,Humanities,Asian,660,5,Technology,0
+2851,Male,FALSE,3.2,STEM,Black,670,4,Consulting,0
+2854,Male,TRUE,3.38,STEM,NA,730,5,Consulting,1
+2855,Male,TRUE,3.17,Humanities,NA,620,6,Other,0
+2856,Male,FALSE,3.45,STEM,Hispanic,750,4,Consulting,0
+2860,Male,FALSE,3.41,Humanities,White,670,5,Investment Banking,1
+2861,Male,TRUE,3.08,Humanities,NA,600,5,Other,0
+2863,Male,FALSE,3.36,Humanities,White,690,4,Nonprofit/Gov,0
+2871,Female,TRUE,3.15,Business,NA,570,6,Investment Banking,0
+2879,Female,FALSE,3.35,Humanities,Asian,680,4,Investment Management,1
+2880,Male,FALSE,3.26,Humanities,Asian,640,4,Technology,0
+2882,Female,FALSE,3.05,Business,Asian,570,4,CPG,0
+2885,Female,FALSE,3.2,Humanities,Hispanic,640,5,Consulting,0
+2888,Female,FALSE,3.42,Business,Hispanic,680,6,Nonprofit/Gov,1
+2890,Female,FALSE,3.04,Business,Black,620,5,Nonprofit/Gov,0
+2895,Male,FALSE,3.15,Business,Asian,670,5,Financial Services,0
+2899,Male,TRUE,3.41,Humanities,NA,750,4,Other,1
+2907,Female,FALSE,3.3,Business,Asian,710,6,Investment Banking,1
+2910,Male,TRUE,3.32,Business,NA,660,5,Nonprofit/Gov,0
+2912,Female,FALSE,3.37,STEM,Hispanic,700,5,Consulting,0
+2914,Male,TRUE,3.36,STEM,NA,730,5,Consulting,1
+2916,Male,FALSE,3.41,STEM,Hispanic,670,3,PE/VC,0
+2920,Male,FALSE,3.27,Business,White,670,4,Financial Services,0
+2926,Female,TRUE,3.45,Humanities,NA,760,6,Media/Entertainment,0
+2928,Female,TRUE,3.28,Business,NA,600,5,Technology,0
+2930,Female,FALSE,3.22,Business,White,670,6,Health Care,0
+2933,Female,FALSE,3.41,Humanities,Asian,690,7,Other,0
+2937,Male,FALSE,3.35,Business,White,710,3,Technology,0
+2939,Male,FALSE,3.24,STEM,Other,690,5,Technology,0
+2948,Male,TRUE,3.24,Humanities,NA,640,4,Other,0
+2950,Male,FALSE,3.21,Business,Black,740,6,Financial Services,0
+2953,Female,TRUE,3.32,Humanities,NA,720,5,PE/VC,0
+2957,Female,TRUE,3.4,Business,NA,650,7,PE/VC,0
+2961,Male,FALSE,3.28,Humanities,White,720,3,Consulting,1
+2962,Male,FALSE,3.17,Humanities,Asian,630,5,Technology,0
+2964,Female,FALSE,3.28,Humanities,Black,650,6,PE/VC,0
+2967,Male,FALSE,3.18,STEM,Other,660,7,Consulting,0
+2974,Male,FALSE,3.49,Humanities,Asian,680,6,Investment Banking,1
+2977,Male,TRUE,2.91,STEM,NA,590,5,Financial Services,0
+2980,Male,FALSE,3.15,STEM,Asian,650,4,Investment Management,0
+2981,Male,FALSE,3.3,STEM,White,720,6,CPG,1
+2983,Female,FALSE,3.23,Business,Asian,670,5,Financial Services,1
+2988,Female,FALSE,3.4,Business,Other,720,4,Financial Services,1
+3000,Male,FALSE,3.55,Business,Asian,760,6,Consulting,1
+3001,Male,TRUE,3.5,Business,NA,710,4,Technology,1
+3008,Male,FALSE,3.39,Humanities,Asian,720,4,Technology,0
+3012,Female,FALSE,3.12,Humanities,Asian,670,5,Consulting,0
+3015,Female,FALSE,3.37,STEM,White,710,4,PE/VC,1
+3020,Male,FALSE,3.31,Business,Asian,720,6,Nonprofit/Gov,1
+3021,Male,FALSE,3.34,STEM,White,710,5,PE/VC,1
+3022,Male,TRUE,3.12,Humanities,NA,640,6,Financial Services,0
+3024,Male,TRUE,3.24,STEM,NA,630,6,Nonprofit/Gov,0
+3025,Female,FALSE,3.42,Humanities,Hispanic,730,6,Nonprofit/Gov,1
+3026,Male,FALSE,3.34,STEM,Hispanic,660,5,Health Care,0
+3029,Female,FALSE,3.43,STEM,Asian,680,5,Investment Management,0
+3030,Male,TRUE,3.22,Humanities,NA,680,5,Health Care,1
+3034,Male,FALSE,3.27,Humanities,White,720,4,Nonprofit/Gov,1
+3036,Female,FALSE,3.23,Business,Hispanic,710,7,Investment Banking,1
+3037,Male,TRUE,3.23,Humanities,NA,680,6,Consulting,1
+3043,Female,TRUE,3.13,Humanities,NA,700,5,Technology,0
+3044,Male,TRUE,3.52,Business,NA,730,6,Technology,1
+3048,Female,FALSE,3.21,Humanities,Asian,690,3,PE/VC,1
+3050,Male,FALSE,3.25,Business,Asian,670,4,Technology,1
+3051,Female,FALSE,3.3,Humanities,White,690,6,Other,0
+3052,Female,FALSE,3.35,Business,Other,660,5,Consulting,0
+3060,Male,FALSE,3.28,STEM,White,620,5,Nonprofit/Gov,0
+3063,Male,TRUE,3.04,Business,NA,600,6,PE/VC,0
+3064,Female,FALSE,3.64,Business,Asian,760,5,Technology,1
+3067,Female,FALSE,3.29,Humanities,Other,680,6,Investment Banking,1
+3068,Female,FALSE,3.5,Humanities,Asian,750,3,Retail,1
+3071,Male,FALSE,3.38,Humanities,White,670,6,Consulting,1
+3073,Female,FALSE,3.35,STEM,Black,720,5,Consulting,1
+3083,Female,TRUE,3.27,Business,NA,700,6,Investment Banking,1
+3084,Female,TRUE,3.12,Humanities,NA,640,4,Investment Management,0
+3085,Male,TRUE,2.95,STEM,NA,580,6,Other,0
+3086,Male,FALSE,3.22,Business,White,680,5,PE/VC,1
+3091,Male,FALSE,3.35,Business,White,720,6,Investment Banking,1
+3097,Male,TRUE,3.55,Business,NA,680,4,Financial Services,1
+3099,Male,FALSE,3.23,Humanities,White,690,5,PE/VC,0
+3100,Male,FALSE,3.08,Humanities,Asian,590,4,Consulting,0
+3104,Female,FALSE,3.16,Business,Asian,590,6,Nonprofit/Gov,0
+3105,Male,FALSE,3.53,Business,Black,620,4,CPG,0
+3106,Male,FALSE,3.54,Business,White,760,5,Financial Services,1
+3108,Male,TRUE,3.25,STEM,NA,650,5,Health Care,0
+3109,Male,FALSE,3.07,Humanities,Hispanic,640,5,Consulting,0
+3111,Male,TRUE,3.31,Business,NA,640,4,Consulting,0
+3117,Female,TRUE,3.05,Business,NA,590,6,Technology,0
+3121,Male,FALSE,3.15,STEM,Asian,570,5,Technology,0
+3122,Male,FALSE,3.38,Business,Hispanic,730,6,Investment Management,0
+3130,Female,TRUE,3.11,Business,NA,600,5,Consulting,0
+3150,Male,TRUE,3.07,Business,NA,570,5,PE/VC,0
+3151,Male,FALSE,3.14,STEM,Black,570,6,Investment Banking,0
+3153,Male,FALSE,3.45,Humanities,Hispanic,730,5,Other,1
+3155,Female,FALSE,3.06,Humanities,Asian,650,6,Consulting,0
+3157,Male,FALSE,3.14,STEM,Black,630,5,Financial Services,0
+3159,Female,FALSE,3.34,Humanities,Black,710,6,Retail,1
+3162,Male,FALSE,3.33,Humanities,White,710,6,Real Estate,1
+3165,Male,FALSE,2.95,Business,White,570,6,Financial Services,0
+3166,Male,FALSE,3.24,Humanities,Asian,640,6,Financial Services,0
+3167,Female,FALSE,3.53,STEM,White,690,6,CPG,1
+3168,Male,TRUE,3.39,STEM,NA,680,5,Health Care,1
+3170,Male,FALSE,3.39,Humanities,White,680,5,Nonprofit/Gov,1
+3172,Male,FALSE,3.37,Humanities,White,660,5,Financial Services,1
+3173,Male,FALSE,3.2,Business,White,640,6,Consulting,0
+3175,Male,FALSE,3.34,Humanities,White,650,4,Consulting,0
+3177,Female,FALSE,3.51,Business,Hispanic,680,6,Real Estate,1
+3181,Female,FALSE,3.39,Business,Black,660,6,Consulting,1
+3184,Male,FALSE,3.21,Humanities,Asian,690,5,Technology,1
+3185,Female,FALSE,3.23,Humanities,Other,670,6,Consulting,1
+3187,Male,FALSE,3.48,Business,Asian,670,5,Consulting,0
+3199,Male,FALSE,3.23,Humanities,Black,650,5,CPG,0
+3208,Female,TRUE,3.52,Humanities,NA,670,7,Consulting,1
+3215,Female,FALSE,3.56,Business,Asian,720,4,PE/VC,1
+3220,Male,FALSE,3.27,Humanities,Hispanic,690,5,Technology,0
+3221,Female,FALSE,3,Humanities,Black,610,7,Investment Banking,0
+3222,Female,FALSE,3.37,Humanities,Asian,680,4,Health Care,1
+3225,Male,FALSE,3.42,Humanities,Asian,780,5,Nonprofit/Gov,1
+3227,Female,TRUE,3.39,Business,NA,660,5,Investment Management,1
+3228,Female,TRUE,3.44,Business,NA,700,4,Investment Banking,0
+3230,Female,FALSE,3.12,Humanities,Asian,620,4,Consulting,0
+3239,Female,TRUE,3.59,Business,NA,770,6,Consulting,1
+3253,Male,FALSE,3.27,Humanities,White,730,6,Investment Banking,1
+3254,Female,FALSE,3.33,STEM,Hispanic,680,5,Investment Banking,1
+3255,Female,FALSE,3.27,Business,Hispanic,720,5,PE/VC,1
+3256,Female,TRUE,3.31,Business,NA,670,6,Investment Banking,1
+3262,Male,FALSE,3.07,Humanities,Asian,570,5,Consulting,0
+3280,Male,TRUE,3.27,STEM,NA,780,4,Consulting,1
+3296,Male,FALSE,3.56,Humanities,Hispanic,740,5,Consulting,1
+3300,Male,TRUE,3.43,STEM,NA,700,6,PE/VC,1
+3306,Male,FALSE,3.43,Humanities,White,710,5,Consulting,0
+3307,Male,FALSE,3.29,STEM,Asian,700,5,PE/VC,0
+3309,Female,FALSE,3.43,Business,White,730,4,Nonprofit/Gov,1
+3310,Male,FALSE,3.41,Humanities,White,760,4,Financial Services,1
+3312,Female,FALSE,3.13,Humanities,Hispanic,770,4,Consulting,0
+3314,Female,FALSE,3.16,STEM,Black,590,6,PE/VC,0
+3319,Male,TRUE,3.16,Business,NA,700,6,Financial Services,0
+3320,Male,FALSE,3.27,Humanities,Asian,580,5,Other,0
+3327,Male,FALSE,3.46,STEM,White,690,6,Consulting,1
+3329,Female,FALSE,3.09,Humanities,Black,640,4,Consulting,0
+3331,Female,FALSE,3.11,Business,Other,650,6,PE/VC,0
+3336,Male,TRUE,3.44,Humanities,NA,630,5,Consulting,0
+3340,Male,FALSE,3.17,Humanities,Black,610,5,Consulting,0
+3341,Male,TRUE,3.34,Business,NA,750,6,Financial Services,1
+3342,Female,TRUE,3.54,STEM,NA,770,5,Consulting,1
+3345,Female,FALSE,3.59,Humanities,White,740,5,Other,1
+3353,Male,TRUE,3.27,Humanities,NA,690,5,PE/VC,0
+3358,Male,TRUE,3.16,Business,NA,610,3,PE/VC,0
+3360,Male,FALSE,3.32,Humanities,Asian,740,4,Consulting,1
+3362,Male,TRUE,3.48,Business,NA,660,6,Technology,1
+3364,Male,TRUE,3.36,Business,NA,770,4,PE/VC,1
+3367,Male,FALSE,3.17,STEM,Black,600,4,Consulting,0
+3376,Male,TRUE,3.43,Humanities,NA,780,5,Investment Banking,0
+3385,Female,TRUE,3.13,Business,NA,620,4,Investment Banking,0
+3387,Male,TRUE,2.97,STEM,NA,570,5,Investment Banking,0
+3389,Male,FALSE,3.11,STEM,Asian,630,5,Health Care,0
+3391,Female,TRUE,3.15,STEM,NA,660,4,Other,0
+3394,Female,FALSE,3.53,Humanities,Hispanic,780,6,Nonprofit/Gov,1
+3395,Male,FALSE,3.21,Business,Asian,680,7,PE/VC,0
+3397,Male,FALSE,3.27,STEM,Other,670,5,Financial Services,1
+3409,Female,TRUE,3.24,STEM,NA,740,5,Investment Management,1
+3410,Female,TRUE,3.49,Business,NA,680,3,PE/VC,1
+3411,Male,FALSE,3.38,Humanities,White,720,5,Investment Banking,1
+3413,Female,TRUE,3.52,Business,NA,610,5,Consulting,0
+3418,Female,TRUE,3.3,Humanities,NA,720,4,Other,0
+3425,Male,FALSE,3.42,STEM,White,640,5,Investment Banking,0
+3436,Female,TRUE,3.3,STEM,NA,650,4,Nonprofit/Gov,0
+3443,Female,FALSE,3.67,Humanities,Black,720,6,Consulting,1
+3444,Female,FALSE,3.31,Humanities,White,690,5,Consulting,1
+3449,Male,TRUE,3.37,Humanities,NA,630,6,Technology,0
+3450,Male,FALSE,3.45,Business,White,770,7,Consulting,1
+3451,Male,FALSE,3.03,Business,White,570,5,Media/Entertainment,0
+3456,Male,TRUE,3.34,STEM,NA,700,6,Nonprofit/Gov,0
+3458,Male,TRUE,3.23,Business,NA,680,5,Consulting,1
+3463,Female,FALSE,3.4,Humanities,Asian,690,5,Nonprofit/Gov,1
+3468,Female,FALSE,3.14,Business,Black,670,5,Consulting,0
+3470,Male,TRUE,3.38,STEM,NA,670,5,Investment Banking,0
+3477,Male,FALSE,3.38,Humanities,Asian,640,5,CPG,0
+3481,Male,TRUE,3.04,Humanities,NA,650,7,Consulting,0
+3482,Female,TRUE,3.21,STEM,NA,670,2,Investment Banking,0
+3483,Male,FALSE,3.38,STEM,White,680,4,Nonprofit/Gov,0
+3486,Female,FALSE,3.51,Humanities,Hispanic,710,6,Health Care,1
+3487,Male,TRUE,3.29,Business,NA,670,4,CPG,1
+3494,Female,TRUE,3.38,Humanities,NA,670,6,Investment Banking,0
+3495,Male,FALSE,3.51,Humanities,White,700,6,Consulting,1
+3496,Female,FALSE,3.32,Business,Asian,630,4,Nonprofit/Gov,0
+3500,Male,FALSE,3.42,Business,Asian,670,5,Other,0
+3502,Male,TRUE,3.23,Business,NA,610,7,Technology,0
+3503,Male,FALSE,3.13,Business,White,630,5,PE/VC,0
+3512,Female,TRUE,3.11,Business,NA,590,6,Other,0
+3516,Female,FALSE,3.36,Humanities,Black,710,5,Consulting,1
+3521,Male,FALSE,3.15,Humanities,Asian,600,2,Investment Banking,0
+3531,Male,FALSE,3.15,Humanities,Asian,640,5,Other,0
+3533,Female,FALSE,3.28,Humanities,White,670,8,Consulting,1
+3536,Female,FALSE,3.12,Business,Black,570,4,Consulting,0
+3539,Male,FALSE,3.54,STEM,Hispanic,740,5,Health Care,1
+3541,Male,FALSE,3.08,Humanities,Asian,590,4,Consulting,0
+3544,Male,FALSE,3.39,Business,Asian,610,5,Investment Banking,0
+3546,Male,TRUE,3.35,Humanities,NA,660,2,Real Estate,1
+3547,Female,TRUE,3.11,Humanities,NA,640,5,PE/VC,0
+3549,Male,FALSE,3.21,STEM,Other,700,5,Consulting,0
+3550,Female,FALSE,3.24,Business,Black,680,7,Nonprofit/Gov,0
+3552,Male,TRUE,3.52,Business,NA,750,6,Consulting,1
+3555,Female,FALSE,3.29,Humanities,Asian,660,4,Consulting,0
+3561,Male,FALSE,3.15,STEM,Black,660,5,Energy,0
+3563,Female,TRUE,3.35,Humanities,NA,650,5,CPG,0
+3564,Male,FALSE,3.32,Business,Black,630,5,Consulting,0
+3569,Male,FALSE,2.99,Business,Hispanic,680,4,Consulting,0
+3570,Male,FALSE,3.46,Business,Other,690,5,Consulting,0
+3571,Male,FALSE,3.55,Humanities,Black,710,5,Consulting,1
+3574,Male,FALSE,3.34,STEM,Asian,710,4,Technology,1
+3577,Female,FALSE,3.3,Humanities,Hispanic,660,4,Financial Services,1
+3578,Male,FALSE,3.4,Business,Hispanic,670,4,PE/VC,1
+3581,Male,FALSE,3.18,Humanities,Other,700,5,Consulting,0
+3582,Male,FALSE,3.28,Business,Asian,720,5,PE/VC,1
+3585,Female,TRUE,3.35,STEM,NA,670,5,Real Estate,0
+3588,Male,FALSE,3.65,Humanities,Hispanic,730,6,Nonprofit/Gov,0
+3594,Female,FALSE,3.35,Humanities,White,700,5,PE/VC,1
+3598,Male,TRUE,3.35,Humanities,NA,730,6,Investment Management,1
+3613,Female,FALSE,3.29,Humanities,Asian,740,4,PE/VC,1
+3614,Male,TRUE,3.06,Business,NA,650,7,PE/VC,0
+3616,Female,FALSE,3.35,Business,Asian,690,6,Technology,1
+3620,Male,TRUE,3.5,Business,NA,660,3,Health Care,1
+3624,Male,FALSE,3.23,Business,Hispanic,650,4,Other,0
+3627,Male,FALSE,3.09,Humanities,White,630,3,Technology,0
+3633,Female,TRUE,3.14,STEM,NA,610,3,Other,0
+3634,Male,FALSE,3.21,Humanities,Hispanic,690,5,PE/VC,1
+3640,Female,FALSE,3.25,STEM,Asian,710,5,PE/VC,1
+3644,Male,TRUE,3.55,STEM,NA,750,6,Health Care,1
+3661,Male,FALSE,3.34,STEM,Asian,690,4,Investment Banking,1
+3664,Male,TRUE,3.28,Business,NA,660,6,Financial Services,1
+3668,Female,FALSE,3.19,Humanities,Black,660,6,Other,0
+3669,Female,FALSE,3.18,Humanities,Hispanic,620,7,Consulting,0
+3672,Male,FALSE,3.13,Business,White,610,5,Consulting,0
+3678,Female,FALSE,3.46,Business,White,690,7,Retail,0
+3679,Female,FALSE,3.18,Humanities,White,660,6,Media/Entertainment,0
+3680,Male,FALSE,3.3,Humanities,White,610,5,Consulting,0
+3682,Male,FALSE,3.28,Business,Black,700,5,Technology,1
+3684,Male,FALSE,3.16,Humanities,Asian,640,6,Financial Services,0
+3685,Male,FALSE,3.24,Humanities,Asian,640,4,PE/VC,0
+3687,Male,FALSE,3.17,Humanities,Black,610,8,Investment Banking,0
+3691,Male,FALSE,3.36,Business,Other,700,5,Technology,0
+3694,Male,FALSE,3.46,STEM,Asian,750,6,Consulting,0
+3704,Female,FALSE,3.42,STEM,Black,690,5,Investment Banking,1
+3708,Female,TRUE,3.07,Business,NA,570,5,Nonprofit/Gov,0
+3710,Female,FALSE,3.19,Business,White,600,5,Investment Banking,0
+3713,Female,TRUE,3.27,Humanities,NA,640,5,PE/VC,0
+3719,Female,TRUE,3,STEM,NA,570,5,Consulting,0
+3720,Female,FALSE,3.1,Business,Asian,580,5,Financial Services,0
+3721,Female,FALSE,3.48,Business,Hispanic,680,4,Consulting,0
+3723,Male,FALSE,3.14,Humanities,Hispanic,650,4,PE/VC,0
+3744,Male,FALSE,3.18,Business,Asian,680,5,Nonprofit/Gov,0
+3747,Female,TRUE,3.22,Business,NA,700,4,Investment Management,1
+3749,Male,FALSE,3.28,Business,Asian,750,3,Media/Entertainment,1
+3751,Female,FALSE,3.27,Business,Asian,700,7,Consulting,0
+3757,Female,FALSE,3.17,STEM,Asian,570,4,Consulting,0
+3760,Male,FALSE,3.28,Business,Asian,660,6,Investment Banking,1
+3762,Male,TRUE,3.24,STEM,NA,680,4,Investment Banking,1
+3763,Male,FALSE,3.46,Humanities,White,740,4,Investment Management,0
+3764,Male,FALSE,3.25,STEM,Asian,670,5,Nonprofit/Gov,1
+3766,Male,FALSE,3.23,STEM,White,640,5,Consulting,0
+3768,Male,FALSE,3.12,Business,Black,670,6,Investment Banking,0
+3771,Male,FALSE,3.06,STEM,Hispanic,580,5,Consulting,0
+3772,Female,FALSE,3.13,Humanities,Other,660,4,Other,0
+3780,Female,TRUE,3.27,Business,NA,680,3,PE/VC,1
+3781,Male,FALSE,3.58,Business,Asian,760,5,Consulting,1
+3784,Male,TRUE,3.28,Humanities,NA,680,6,Consulting,1
+3787,Male,TRUE,3.2,Business,NA,660,6,Technology,0
+3791,Male,FALSE,3.32,STEM,Hispanic,640,6,Technology,0
+3792,Male,TRUE,3.4,STEM,NA,720,7,Consulting,1
+3799,Male,FALSE,3.24,Humanities,Black,680,5,PE/VC,1
+3800,Male,TRUE,3.21,STEM,NA,670,4,Technology,1
+3802,Male,FALSE,3.07,STEM,White,650,7,Consulting,0
+3805,Female,FALSE,3.27,STEM,Hispanic,670,4,Real Estate,1
+3807,Female,FALSE,3.21,STEM,Other,600,6,Consulting,0
+3824,Male,TRUE,3.07,STEM,NA,640,5,Consulting,0
+3834,Male,FALSE,3.4,STEM,White,700,5,Other,1
+3836,Female,FALSE,3.45,STEM,White,750,5,Other,1
+3837,Female,FALSE,3.49,Business,Hispanic,680,6,Investment Banking,1
+3838,Female,FALSE,3.35,Humanities,Black,660,5,PE/VC,0
+3847,Male,FALSE,3.25,Humanities,Hispanic,690,5,PE/VC,0
+3849,Male,FALSE,3.26,Business,Black,630,5,Technology,0
+3850,Male,FALSE,3.26,Humanities,Black,700,3,Nonprofit/Gov,0
+3856,Female,FALSE,3.05,STEM,White,660,6,Technology,0
+3857,Female,TRUE,3.54,Business,NA,620,4,Consulting,0
+3862,Male,FALSE,3.26,STEM,White,680,4,Health Care,1
+3869,Male,FALSE,3.08,Business,Asian,620,5,Financial Services,0
+3875,Female,FALSE,3.37,Humanities,Hispanic,690,6,Consulting,1
+3877,Male,FALSE,3.48,Humanities,Asian,670,4,Consulting,1
+3880,Male,FALSE,3.21,Humanities,Black,580,6,Health Care,0
+3881,Male,FALSE,3.54,Business,White,780,5,Energy,1
+3883,Female,FALSE,3.55,STEM,White,680,5,Financial Services,1
+3886,Male,FALSE,3.68,Humanities,Asian,740,5,Other,1
+3890,Male,TRUE,3.32,Business,NA,750,5,Health Care,1
+3892,Male,FALSE,3.27,Business,Black,710,6,Financial Services,0
+3893,Female,FALSE,3.36,STEM,Asian,670,6,PE/VC,0
+3900,Female,FALSE,3.12,Humanities,Asian,660,6,PE/VC,0
+3904,Female,FALSE,3.28,Humanities,Black,750,5,Other,1
+3910,Female,FALSE,3.43,Humanities,White,670,7,PE/VC,0
+3916,Female,FALSE,3.08,Business,Asian,610,5,Investment Banking,0
+3927,Female,FALSE,3.42,Humanities,Other,730,4,Health Care,0
+3929,Male,FALSE,3.19,Business,Asian,580,5,Nonprofit/Gov,0
+3933,Female,FALSE,3.3,Business,Asian,640,6,Consulting,0
+3935,Female,FALSE,3.37,Business,White,710,7,Investment Management,1
+3936,Female,FALSE,3.1,Business,Hispanic,670,5,Technology,0
+3940,Female,TRUE,3.27,STEM,NA,710,5,Investment Banking,0
+3948,Male,FALSE,3,Business,Asian,590,5,PE/VC,0
+3949,Female,FALSE,3.5,Humanities,Asian,720,5,Financial Services,1
+3954,Female,FALSE,3.13,Business,Hispanic,630,4,PE/VC,0
+3955,Female,FALSE,3.43,STEM,Asian,660,4,Consulting,1
+3957,Male,FALSE,3.42,STEM,White,700,5,Nonprofit/Gov,1
+3958,Male,FALSE,3.41,Business,Asian,720,3,Investment Management,1
+3964,Male,TRUE,3.5,STEM,NA,720,5,Technology,1
+3968,Male,TRUE,2.99,Business,NA,570,6,Health Care,0
+3971,Male,TRUE,3.24,Humanities,NA,700,4,Investment Management,0
+3974,Male,TRUE,3.4,Humanities,NA,770,5,Technology,1
+3975,Female,TRUE,3.32,STEM,NA,660,4,Consulting,1
+3976,Male,FALSE,3.43,Humanities,White,740,5,Investment Banking,1
+3979,Male,FALSE,3.09,Humanities,Black,570,4,Consulting,0
+3984,Male,FALSE,3.17,STEM,Asian,670,6,PE/VC,0
+3986,Male,FALSE,3.34,Business,White,670,6,Media/Entertainment,1
+3991,Female,FALSE,3.08,STEM,White,570,7,Health Care,0
+3995,Female,TRUE,3.37,Business,NA,620,4,Consulting,0
+3998,Male,FALSE,3.24,STEM,White,680,7,Technology,1
+4003,Female,TRUE,2.99,STEM,NA,570,4,Technology,0
+4008,Female,FALSE,2.95,STEM,White,590,6,Investment Banking,0
+4014,Male,FALSE,3.34,Humanities,Black,610,6,Consulting,0
+4018,Male,FALSE,3.63,Humanities,Asian,760,3,Consulting,1
+4022,Female,FALSE,2.93,Humanities,White,660,4,Real Estate,0
+4023,Male,TRUE,3.33,Humanities,NA,610,6,PE/VC,0
+4024,Female,FALSE,3.36,STEM,Asian,690,5,Other,1
+4030,Female,FALSE,3.38,Humanities,Asian,700,4,Financial Services,1
+4031,Male,FALSE,3.29,Humanities,Asian,690,6,Technology,1
+4035,Male,FALSE,3.29,Business,Asian,640,5,PE/VC,0
+4042,Female,FALSE,3.2,Business,White,700,6,Technology,0
+4044,Male,FALSE,2.93,Business,Asian,590,3,Nonprofit/Gov,0
+4045,Female,FALSE,3.37,Humanities,White,640,5,Investment Banking,0
+4049,Male,FALSE,3.45,STEM,White,660,7,Nonprofit/Gov,1
+4051,Male,FALSE,3.39,Humanities,White,780,6,Nonprofit/Gov,0
+4058,Male,TRUE,3.04,Business,NA,640,5,Consulting,0
+4059,Female,FALSE,3.19,STEM,Asian,600,6,Nonprofit/Gov,0
+4073,Female,FALSE,3.35,Humanities,White,710,3,Nonprofit/Gov,1
+4075,Male,FALSE,3,STEM,White,570,6,Financial Services,0
+4079,Male,FALSE,3.23,Humanities,Black,600,6,Consulting,0
+4080,Male,FALSE,3.31,Humanities,Asian,700,6,Consulting,0
+4082,Female,FALSE,3.43,Humanities,White,660,5,Health Care,1
+4083,Male,TRUE,3.57,Humanities,NA,720,7,Financial Services,1
+4092,Male,FALSE,3.5,Business,Asian,740,4,Investment Management,1
+4094,Male,TRUE,3.4,Humanities,NA,730,4,Other,1
+4099,Female,FALSE,3.42,Humanities,Black,710,4,Consulting,1
+4100,Female,TRUE,3.46,Business,NA,700,4,Nonprofit/Gov,1
+4101,Male,FALSE,3.32,Humanities,White,760,5,Consulting,1
+4102,Female,FALSE,3.34,Humanities,Asian,720,6,PE/VC,1
+4106,Female,FALSE,3.16,Business,Other,570,5,Financial Services,0
+4121,Male,FALSE,3.27,STEM,Asian,680,4,Consulting,0
+4122,Female,FALSE,3.12,Humanities,White,660,6,Consulting,0
+4126,Male,TRUE,3.08,Business,NA,660,6,Financial Services,0
+4132,Male,FALSE,3.17,Humanities,Black,670,5,Consulting,0
+4133,Female,FALSE,3.41,Humanities,White,780,5,PE/VC,1
+4139,Male,TRUE,3.13,Business,NA,690,5,Consulting,0
+4144,Male,FALSE,3.34,Humanities,Asian,670,5,PE/VC,1
+4145,Male,FALSE,3.21,STEM,Asian,670,5,Technology,1
+4148,Female,TRUE,3.49,Humanities,NA,780,5,Consulting,1
+4152,Female,FALSE,3.58,STEM,Asian,700,4,PE/VC,1
+4153,Female,TRUE,3.32,Humanities,NA,660,5,Investment Banking,1
+4154,Male,FALSE,3.01,Business,Black,590,3,Investment Banking,0
+4155,Female,TRUE,3.38,Humanities,NA,700,6,PE/VC,1
+4157,Female,FALSE,3.12,Humanities,Asian,590,5,Nonprofit/Gov,0
+4161,Male,TRUE,3.28,STEM,NA,670,5,PE/VC,1
+4172,Male,FALSE,3.34,STEM,Hispanic,670,8,Health Care,0
+4180,Female,TRUE,3.23,Business,NA,670,5,Investment Banking,1
+4190,Female,FALSE,3.4,STEM,Asian,710,6,Consulting,1
+4191,Female,TRUE,3.39,Humanities,NA,740,5,Investment Banking,1
+4194,Female,TRUE,3.41,Humanities,NA,670,6,Real Estate,1
+4200,Male,FALSE,3.14,STEM,Hispanic,640,4,Consulting,0
+4202,Male,TRUE,3.24,Business,NA,670,4,Consulting,1
+4207,Female,TRUE,3.07,Business,NA,630,5,Consulting,0
+4212,Male,FALSE,3.19,STEM,White,640,5,Nonprofit/Gov,0
+4216,Female,FALSE,3.51,STEM,Hispanic,690,3,Nonprofit/Gov,1
+4219,Female,FALSE,3.31,STEM,White,720,4,Consulting,1
+4223,Female,FALSE,3.6,Humanities,White,690,5,Technology,1
+4226,Male,FALSE,3.33,Humanities,Asian,650,6,Energy,0
+4227,Male,TRUE,3.35,Business,NA,660,5,Technology,1
+4229,Male,FALSE,3.27,Humanities,Black,720,4,Other,1
+4235,Male,FALSE,3.16,Humanities,Hispanic,590,5,Consulting,0
+4236,Female,TRUE,3.43,STEM,NA,750,4,Energy,0
+4237,Male,FALSE,3.42,STEM,Black,630,5,Nonprofit/Gov,0
+4238,Female,FALSE,3.34,STEM,White,670,6,PE/VC,1
+4242,Male,FALSE,3.12,STEM,White,690,6,Nonprofit/Gov,0
+4246,Male,TRUE,3.41,Humanities,NA,700,4,PE/VC,1
+4248,Male,FALSE,3.42,STEM,Hispanic,690,4,Health Care,0
+4252,Male,FALSE,3.4,Humanities,Asian,680,5,Health Care,1
+4254,Female,FALSE,3.47,STEM,White,700,4,Technology,1
+4268,Female,TRUE,3.57,STEM,NA,670,5,Investment Banking,1
+4275,Male,FALSE,3.25,Humanities,Other,720,4,Investment Banking,1
+4278,Female,FALSE,3.27,STEM,Asian,700,6,CPG,1
+4282,Female,TRUE,3.36,Business,NA,690,4,Nonprofit/Gov,1
+4287,Female,FALSE,3.13,STEM,White,690,4,PE/VC,0
+4288,Male,FALSE,3.29,Business,Other,670,5,Nonprofit/Gov,1
+4289,Male,FALSE,3.62,Business,Asian,760,5,Consulting,1
+4291,Female,TRUE,3.46,Humanities,NA,680,6,Investment Banking,1
+4292,Female,TRUE,3.26,STEM,NA,700,5,Consulting,1
+4293,Female,FALSE,3.39,STEM,Black,720,6,Consulting,1
+4299,Female,FALSE,3.37,Humanities,White,760,5,Health Care,1
+4300,Male,FALSE,3.31,Business,White,670,4,Investment Management,0
+4304,Female,TRUE,2.93,Business,NA,600,6,Consulting,0
+4305,Female,FALSE,3.41,Business,Asian,610,3,Technology,0
+4306,Female,FALSE,3.08,STEM,Black,600,3,Other,0
+4308,Male,FALSE,3.23,Business,Black,670,6,Consulting,1
+4309,Male,FALSE,2.96,STEM,White,610,5,Other,0
+4310,Male,TRUE,3.28,STEM,NA,580,3,Consulting,0
+4316,Male,FALSE,3.4,Humanities,White,720,4,Nonprofit/Gov,1
+4319,Female,FALSE,3.04,Humanities,White,590,5,Consulting,0
+4325,Female,TRUE,3.3,Business,NA,680,6,Technology,1
+4326,Female,FALSE,3.32,Humanities,White,610,5,Investment Management,0
+4331,Male,FALSE,3.09,Humanities,White,570,5,Financial Services,0
+4339,Female,FALSE,3.28,STEM,Black,670,4,Retail,0
+4340,Female,FALSE,3.39,STEM,Other,730,3,Technology,1
+4346,Male,TRUE,3.49,Business,NA,700,6,Real Estate,0
+4349,Female,TRUE,3.44,STEM,NA,730,5,Financial Services,1
+4350,Female,FALSE,3.25,STEM,White,670,5,Technology,1
+4357,Male,FALSE,3.48,Business,Black,690,6,PE/VC,1
+4358,Male,TRUE,3.27,Humanities,NA,640,5,Consulting,0
+4361,Female,FALSE,3.55,Humanities,Black,690,7,Consulting,1
+4366,Female,FALSE,3.21,STEM,Black,620,4,Health Care,0
+4370,Female,FALSE,3.55,Business,Asian,700,6,PE/VC,1
+4379,Male,FALSE,3.46,Humanities,Black,690,7,Financial Services,0
+4387,Male,FALSE,3.07,Business,White,570,4,PE/VC,0
+4388,Male,TRUE,3.25,STEM,NA,650,6,Other,0
+4391,Male,TRUE,3.34,Humanities,NA,670,4,Investment Banking,1
+4392,Male,FALSE,3.06,Humanities,Hispanic,660,4,Consulting,0
+4393,Male,FALSE,3.25,Business,White,690,7,Investment Banking,1
+4398,Female,FALSE,3.44,STEM,Asian,700,6,Consulting,1
+4399,Female,TRUE,3.18,Humanities,NA,660,4,Other,0
+4407,Male,TRUE,3.32,STEM,NA,630,5,Consulting,0
+4411,Female,FALSE,3.41,Business,Black,660,6,Investment Banking,1
+4424,Male,FALSE,3.38,STEM,Asian,720,5,Technology,1
+4434,Female,TRUE,3.41,Humanities,NA,700,5,PE/VC,1
+4437,Female,FALSE,3.37,Humanities,Asian,620,6,Investment Management,0
+4438,Male,FALSE,3.19,Humanities,Black,580,5,Consulting,0
+4442,Male,FALSE,3.19,STEM,White,670,6,CPG,0
+4443,Male,FALSE,3.21,STEM,White,640,4,Financial Services,0
+4447,Male,FALSE,3.36,Humanities,Other,700,5,CPG,1
+4448,Male,TRUE,3.24,Humanities,NA,700,6,Technology,1
+4449,Male,TRUE,3.32,Humanities,NA,710,4,Financial Services,1
+4452,Male,FALSE,3.25,Humanities,White,670,6,Nonprofit/Gov,1
+4455,Male,TRUE,3.46,Business,NA,770,6,Energy,1
+4460,Female,TRUE,3.35,Business,NA,640,7,Health Care,0
+4463,Male,TRUE,3.37,Humanities,NA,690,5,Consulting,0
+4464,Male,TRUE,3.12,Humanities,NA,600,6,Consulting,0
+4471,Male,FALSE,2.92,Humanities,Hispanic,620,3,Investment Management,0
+4474,Male,TRUE,3.5,Humanities,NA,740,5,Investment Management,1
+4476,Male,FALSE,3.27,Humanities,White,700,3,Health Care,1
+4477,Male,FALSE,3.52,Business,White,680,4,Consulting,0
+4478,Male,FALSE,3.44,Business,Black,710,5,PE/VC,1
+4486,Male,TRUE,3.36,Humanities,NA,710,2,Other,1
+4487,Male,FALSE,3.47,STEM,Black,710,4,PE/VC,0
+4492,Male,TRUE,3.4,Business,NA,670,4,Financial Services,1
+4495,Male,FALSE,3.54,Business,Hispanic,620,5,Investment Management,0
+4497,Male,TRUE,3.31,Humanities,NA,680,5,Other,1
+4498,Male,FALSE,3.31,STEM,Other,680,5,Other,1
+4504,Male,TRUE,3.39,Humanities,NA,750,4,Health Care,1
+4505,Female,TRUE,3.36,STEM,NA,710,4,Other,1
+4506,Male,TRUE,3.44,Humanities,NA,750,5,Other,0
+4510,Male,FALSE,3.27,Humanities,Asian,720,5,Nonprofit/Gov,1
+4513,Male,FALSE,3.33,Humanities,White,660,7,Consulting,0
+4515,Male,TRUE,3.25,Humanities,NA,690,5,Media/Entertainment,0
+4528,Female,FALSE,3.17,Business,Hispanic,570,5,Technology,0
+4534,Male,FALSE,3.12,Business,Black,660,7,Consulting,0
+4540,Male,TRUE,3.35,Humanities,NA,660,6,Nonprofit/Gov,1
+4544,Male,FALSE,3.19,Business,White,680,4,Technology,0
+4546,Male,FALSE,3.29,Business,White,670,5,Nonprofit/Gov,1
+4547,Female,FALSE,3.13,STEM,Black,570,5,Financial Services,0
+4559,Female,TRUE,3.7,Business,NA,740,5,PE/VC,1
+4560,Female,FALSE,3.24,Humanities,Asian,690,4,Investment Banking,0
+4562,Female,TRUE,3.34,Business,NA,730,5,Other,1
+4572,Male,TRUE,2.99,STEM,NA,600,4,Nonprofit/Gov,0
+4576,Female,FALSE,3.22,Humanities,White,630,5,Other,0
+4577,Male,FALSE,3.07,Humanities,White,570,6,Technology,0
+4580,Male,FALSE,3.07,Business,Hispanic,570,5,PE/VC,0
+4583,Female,TRUE,3.16,Humanities,NA,620,6,Consulting,0
+4584,Male,FALSE,3.29,STEM,White,660,3,Consulting,1
+4585,Male,FALSE,3.36,Humanities,White,640,6,PE/VC,0
+4587,Male,FALSE,3.26,Humanities,Black,630,6,PE/VC,0
+4597,Male,TRUE,3.51,Humanities,NA,720,4,Other,1
+4602,Male,FALSE,3.21,Business,Black,680,6,Consulting,1
+4607,Female,TRUE,3.24,Humanities,NA,640,5,Consulting,0
+4612,Male,FALSE,3.35,Humanities,Hispanic,700,5,Nonprofit/Gov,1
+4613,Female,TRUE,3.54,STEM,NA,680,6,Consulting,1
+4620,Female,FALSE,3.27,Business,Asian,620,6,Real Estate,0
+4622,Male,TRUE,3.43,STEM,NA,670,4,Technology,1
+4628,Male,TRUE,3.19,Business,NA,650,6,PE/VC,0
+4642,Male,FALSE,3.41,Business,Asian,730,5,PE/VC,1
+4649,Female,FALSE,3.1,STEM,Black,590,4,Consulting,0
+4651,Male,FALSE,3.03,STEM,Asian,570,4,PE/VC,0
+4654,Male,TRUE,3.44,STEM,NA,750,5,Other,0
+4655,Male,FALSE,3.34,Business,Asian,700,7,Consulting,1
+4658,Male,FALSE,3.39,Business,White,710,5,Nonprofit/Gov,1
+4659,Female,FALSE,3.33,Humanities,Asian,680,6,PE/VC,1
+4668,Male,FALSE,3.36,Humanities,Asian,660,4,Financial Services,0
+4670,Male,FALSE,3.5,STEM,Asian,690,3,Other,1
+4673,Female,FALSE,3.02,STEM,Hispanic,570,7,Technology,0
+4694,Male,TRUE,3.29,STEM,NA,670,4,PE/VC,0
+4696,Male,FALSE,3.28,Business,Black,720,5,Consulting,1
+4698,Male,FALSE,3.43,STEM,White,780,5,Consulting,0
+4699,Male,TRUE,3.5,Business,NA,680,5,Other,1
+4718,Male,FALSE,3.33,Humanities,Asian,670,6,PE/VC,1
+4719,Male,TRUE,3.12,Humanities,NA,590,6,PE/VC,0
+4728,Female,FALSE,3.5,Humanities,Asian,630,3,PE/VC,0
+4731,Male,FALSE,3.31,Humanities,White,640,4,Investment Banking,0
+4733,Male,FALSE,3.29,STEM,Other,620,6,Consulting,0
+4734,Male,FALSE,3.73,Humanities,Black,780,5,Nonprofit/Gov,1
+4735,Female,FALSE,3.07,Business,White,670,5,PE/VC,0
+4737,Female,FALSE,3.36,Humanities,Other,710,5,CPG,1
+4743,Male,FALSE,3.39,STEM,Asian,700,5,Other,1
+4744,Female,FALSE,3.36,Business,Hispanic,700,6,Nonprofit/Gov,1
+4749,Male,FALSE,3.51,Business,Black,780,4,Consulting,1
+4750,Male,FALSE,3.26,Humanities,Black,640,5,Consulting,0
+4753,Male,TRUE,3.23,STEM,NA,680,5,Investment Banking,1
+4763,Male,TRUE,2.96,Humanities,NA,600,6,Investment Banking,0
+4768,Female,TRUE,3.55,Business,NA,700,4,Consulting,1
+4770,Female,FALSE,3.27,STEM,Asian,700,5,Consulting,1
+4774,Female,FALSE,3.33,Business,Asian,700,4,Financial Services,0
+4776,Male,FALSE,3.25,Business,Other,720,4,Consulting,1
+4777,Male,FALSE,3.26,STEM,White,590,5,Real Estate,0
+4784,Female,FALSE,3.14,Humanities,Asian,630,4,Nonprofit/Gov,0
+4785,Male,FALSE,3.36,Humanities,Black,710,4,Technology,1
+4788,Female,TRUE,3.17,Business,NA,620,7,Nonprofit/Gov,0
+4791,Female,FALSE,3.38,Business,White,720,5,Consulting,1
+4809,Male,FALSE,3.29,Humanities,White,670,4,PE/VC,1
+4812,Female,FALSE,3.33,Business,White,680,5,Nonprofit/Gov,1
+4814,Female,TRUE,3.38,Business,NA,610,6,Technology,0
+4824,Female,FALSE,3.3,Business,White,740,5,Consulting,1
+4826,Male,FALSE,3.59,STEM,White,780,4,Consulting,1
+4827,Male,FALSE,3.43,Humanities,Hispanic,660,7,Other,0
+4829,Male,FALSE,3.33,Humanities,Black,690,6,PE/VC,0
+4830,Male,FALSE,3.03,STEM,Black,630,5,Consulting,0
+4833,Female,TRUE,3.61,Humanities,NA,680,4,Consulting,1
+4835,Male,TRUE,3.16,Humanities,NA,570,6,PE/VC,0
+4844,Male,FALSE,3.33,Humanities,Asian,720,5,Other,1
+4847,Female,TRUE,3.07,STEM,NA,650,5,Consulting,0
+4851,Male,FALSE,3.39,Business,White,600,5,Consulting,0
+4852,Male,FALSE,3.13,Business,Asian,570,4,Technology,0
+4861,Female,FALSE,3.4,Humanities,White,690,5,Real Estate,1
+4862,Female,FALSE,3.09,Business,Asian,620,6,Other,0
+4872,Male,FALSE,3.28,Business,White,710,5,Investment Banking,0
+4874,Male,TRUE,3.29,Humanities,NA,650,5,Consulting,0
+4883,Female,FALSE,3.25,Humanities,Asian,730,5,Financial Services,1
+4885,Female,TRUE,3.39,Humanities,NA,740,7,Other,1
+4887,Male,FALSE,3.53,STEM,Hispanic,700,4,Health Care,1
+4901,Male,FALSE,3.31,Business,White,660,6,Technology,1
+4902,Female,TRUE,2.65,Humanities,NA,570,6,Investment Banking,0
+4903,Female,FALSE,3.36,Humanities,Asian,710,6,Nonprofit/Gov,1
+4904,Male,FALSE,3.34,Humanities,White,570,6,PE/VC,0
+4912,Male,TRUE,3.09,Humanities,NA,630,3,Consulting,0
+4914,Female,FALSE,3.41,Humanities,Asian,680,6,Nonprofit/Gov,1
+4915,Male,TRUE,3.21,Humanities,NA,700,3,Financial Services,1
+4916,Male,FALSE,3.32,Humanities,White,610,6,Technology,0
+4917,Male,TRUE,3.27,STEM,NA,640,7,Technology,0
+4918,Female,FALSE,3.19,Business,Black,620,6,Other,0
+4923,Female,FALSE,3.34,STEM,Black,610,6,Consulting,0
+4926,Male,FALSE,3.56,Humanities,Hispanic,670,6,Consulting,1
+4928,Male,FALSE,3.41,Humanities,Asian,670,6,Financial Services,1
+4930,Female,FALSE,3.27,Humanities,Black,660,5,Consulting,1
+4934,Female,FALSE,3.05,Business,Other,680,5,Consulting,0
+4944,Female,FALSE,3.36,Business,Other,700,6,Consulting,1
+4945,Male,FALSE,3.37,Business,White,660,6,PE/VC,1
+4946,Male,TRUE,3.42,Humanities,NA,650,5,Consulting,0
+4950,Male,FALSE,3.26,Humanities,White,660,5,PE/VC,1
+4965,Male,FALSE,3.38,Humanities,White,660,5,Financial Services,1
+4974,Female,FALSE,3.59,Humanities,White,750,3,Consulting,1
+4977,Male,FALSE,3.42,STEM,Asian,710,4,Technology,1
+4981,Male,FALSE,3.16,Humanities,Black,610,5,Other,0
+4988,Male,FALSE,3.45,Humanities,Black,690,5,Financial Services,1
+4999,Female,TRUE,3.14,STEM,NA,590,5,Nonprofit/Gov,0
+5001,Male,TRUE,3.35,STEM,NA,760,5,PE/VC,1
+5003,Female,FALSE,3.35,STEM,Black,710,3,Consulting,1
+5004,Female,FALSE,3.3,Humanities,Black,620,6,Investment Banking,0
+5007,Female,FALSE,3.03,STEM,Other,610,7,Technology,0
+5014,Male,FALSE,3.25,Humanities,Other,710,6,Consulting,1
+5015,Female,TRUE,3.32,Business,NA,650,6,Technology,0
+5016,Female,TRUE,3.3,Humanities,NA,670,5,Technology,1
+5019,Male,FALSE,3.34,Business,Asian,700,6,PE/VC,1
+5022,Male,TRUE,3.29,STEM,NA,670,4,Consulting,1
+5023,Male,FALSE,3.06,Business,Black,620,5,Nonprofit/Gov,0
+5027,Male,FALSE,3.44,Humanities,Asian,690,5,Other,1
+5034,Male,FALSE,3.3,Business,Hispanic,660,4,Technology,0
+5044,Female,FALSE,3.22,Business,Asian,710,4,PE/VC,1
+5048,Female,FALSE,3.21,STEM,Black,650,5,Investment Banking,0
+5056,Female,FALSE,3.39,STEM,White,690,5,Technology,1
+5068,Female,FALSE,3.34,Humanities,Black,740,4,Consulting,1
+5070,Male,FALSE,3.31,Business,Black,630,6,Investment Banking,0
+5074,Male,FALSE,3.18,Humanities,Hispanic,640,4,PE/VC,0
+5083,Female,FALSE,3.27,Humanities,Black,650,5,PE/VC,0
+5085,Male,FALSE,3.48,Humanities,Other,750,4,Investment Banking,1
+5095,Female,FALSE,3.38,Humanities,White,780,6,Consulting,1
+5109,Female,TRUE,3.18,Humanities,NA,600,4,Consulting,0
+5114,Male,TRUE,3.05,STEM,NA,600,6,Investment Banking,0
+5115,Male,TRUE,3.54,STEM,NA,670,5,Technology,1
+5117,Female,TRUE,2.99,Business,NA,590,7,Other,0
+5119,Female,FALSE,3.31,STEM,White,710,5,Investment Banking,0
+5124,Male,FALSE,3.49,Humanities,Other,710,5,Financial Services,0
+5129,Male,FALSE,3.3,Humanities,White,720,5,PE/VC,0
+5131,Female,FALSE,3.44,Humanities,Asian,730,7,Technology,1
+5134,Male,FALSE,3.62,Humanities,Asian,700,6,Technology,1
+5135,Male,FALSE,3.35,Humanities,Hispanic,750,4,Consulting,1
+5140,Male,FALSE,3.31,Humanities,Black,700,6,Investment Banking,0
+5142,Female,FALSE,3.51,STEM,White,730,3,Financial Services,1
+5144,Male,FALSE,3.41,Humanities,Black,730,5,PE/VC,1
+5156,Female,FALSE,3.08,Business,Asian,620,4,Investment Banking,0
+5163,Female,FALSE,3.49,Business,Black,640,5,Consulting,0
+5166,Female,FALSE,3.41,Humanities,Asian,730,5,Technology,1
+5167,Female,FALSE,3.25,STEM,Black,720,6,Consulting,0
+5168,Female,TRUE,3.19,STEM,NA,630,5,PE/VC,0
+5169,Male,TRUE,3.29,STEM,NA,660,6,Technology,0
+5174,Female,TRUE,3.27,STEM,NA,670,6,Financial Services,1
+5175,Female,FALSE,3.36,Humanities,Hispanic,600,5,CPG,0
+5183,Male,FALSE,3.28,STEM,Black,660,6,Other,0
+5194,Male,TRUE,3.24,Business,NA,740,4,Consulting,1
+5203,Male,FALSE,3.29,STEM,White,670,5,Nonprofit/Gov,0
+5214,Male,FALSE,3.21,Business,White,750,4,Consulting,1
+5218,Male,FALSE,2.89,Humanities,Black,570,5,PE/VC,0
+5220,Female,FALSE,3.24,Business,Black,690,5,Technology,0
+5221,Female,FALSE,3.31,Business,Hispanic,660,5,PE/VC,1
+5223,Female,FALSE,3.35,Business,White,670,5,Nonprofit/Gov,1
+5224,Female,TRUE,3.05,STEM,NA,630,6,Health Care,0
+5226,Male,FALSE,3.29,Humanities,Asian,660,5,Health Care,0
+5227,Male,TRUE,3.27,Humanities,NA,660,5,Health Care,1
+5231,Male,TRUE,3.48,Humanities,NA,760,5,Consulting,1
+5234,Female,FALSE,3.27,STEM,Hispanic,570,8,Nonprofit/Gov,0
+5236,Female,FALSE,3.26,Humanities,Asian,680,6,Technology,1
+5240,Male,FALSE,3.31,STEM,Hispanic,660,5,PE/VC,1
+5241,Male,TRUE,3.29,Humanities,NA,650,3,Consulting,0
+5243,Male,FALSE,3.38,Business,Black,670,5,CPG,0
+5251,Female,FALSE,3.38,Business,Hispanic,720,5,Financial Services,1
+5253,Female,FALSE,3.38,Business,Asian,710,5,Financial Services,1
+5260,Male,FALSE,3.23,Humanities,Asian,620,5,Investment Banking,0
+5262,Female,FALSE,3.48,STEM,Black,750,6,PE/VC,1
+5264,Female,FALSE,3.31,Business,White,650,7,Investment Banking,0
+5265,Female,FALSE,3.18,Business,White,670,5,Other,0
+5270,Male,TRUE,3.35,Business,NA,680,5,Consulting,0
+5274,Male,FALSE,3.44,Business,White,750,3,PE/VC,1
+5275,Female,FALSE,3.35,Humanities,Hispanic,670,3,Nonprofit/Gov,1
+5285,Male,FALSE,3.29,Humanities,Asian,670,7,Financial Services,1
+5289,Male,FALSE,3.44,Business,Black,760,5,Consulting,1
+5291,Male,TRUE,3.28,Business,NA,570,5,Technology,0
+5292,Male,FALSE,3.25,Business,Hispanic,610,5,CPG,0
+5301,Male,TRUE,3.29,Business,NA,590,5,PE/VC,0
+5302,Male,FALSE,3.38,STEM,Black,730,4,PE/VC,0
+5307,Male,FALSE,3.26,Humanities,White,620,5,Investment Banking,0
+5308,Male,FALSE,3.34,STEM,Black,680,5,Investment Banking,1
+5315,Female,FALSE,3.41,Business,Asian,660,5,Consulting,1
+5318,Male,FALSE,3.44,Humanities,Hispanic,730,3,Consulting,1
+5334,Female,FALSE,3.18,Humanities,Black,650,5,Technology,0
+5337,Female,FALSE,3.27,STEM,Black,660,7,PE/VC,1
+5340,Female,FALSE,3.41,Humanities,White,780,3,Consulting,1
+5343,Male,TRUE,3.43,Humanities,NA,710,4,Investment Management,1
+5351,Male,FALSE,3.58,Humanities,Asian,670,5,Financial Services,0
+5356,Female,FALSE,3.22,Humanities,Black,660,7,Financial Services,1
+5358,Male,TRUE,3.52,STEM,NA,780,6,Technology,1
+5365,Female,TRUE,3.41,Business,NA,660,6,Consulting,1
+5370,Female,TRUE,3.54,Humanities,NA,780,5,Investment Banking,1
+5373,Female,FALSE,3.23,Business,Black,660,6,Consulting,1
+5377,Male,FALSE,3.32,Humanities,White,630,4,Other,0
+5378,Female,FALSE,3.36,Business,Other,700,5,PE/VC,0
+5383,Male,TRUE,3.1,Humanities,NA,700,6,PE/VC,0
+5384,Male,FALSE,3.19,STEM,Black,650,6,PE/VC,0
+5385,Female,FALSE,3.18,Humanities,White,630,4,PE/VC,0
+5387,Male,FALSE,3.23,Humanities,Asian,680,5,Investment Management,1
+5389,Male,FALSE,3.08,Humanities,Hispanic,580,5,PE/VC,0
+5392,Male,FALSE,3.18,Business,White,680,4,Consulting,0
+5393,Female,FALSE,3.39,Business,Hispanic,640,4,Financial Services,0
+5397,Female,FALSE,3.38,Humanities,Asian,700,4,Financial Services,1
+5400,Male,FALSE,3.32,Business,Other,730,5,Investment Management,1
+5404,Female,TRUE,3.35,STEM,NA,660,5,Investment Banking,0
+5405,Female,FALSE,3.22,Business,Black,660,4,Nonprofit/Gov,0
+5408,Female,FALSE,3.41,STEM,White,760,6,Consulting,1
+5413,Male,TRUE,3.3,STEM,NA,620,6,Nonprofit/Gov,0
+5414,Female,FALSE,3.3,Humanities,White,640,3,Consulting,0
+5425,Female,FALSE,3.3,Business,Asian,680,4,PE/VC,1
+5443,Female,FALSE,3.48,STEM,Black,690,6,PE/VC,0
+5444,Female,FALSE,2.98,Business,White,590,5,Technology,0
+5453,Female,FALSE,2.97,Humanities,Hispanic,580,4,Consulting,0
+5455,Male,FALSE,3.51,Humanities,Asian,690,4,Technology,1
+5461,Male,FALSE,3.14,Humanities,White,620,5,Consulting,0
+5462,Male,TRUE,3.37,Humanities,NA,670,4,Consulting,0
+5463,Female,FALSE,3,Business,White,570,6,PE/VC,0
+5465,Male,TRUE,2.96,Humanities,NA,570,5,Technology,0
+5466,Female,TRUE,3.28,Humanities,NA,680,5,Consulting,1
+5467,Male,FALSE,3.27,Humanities,Asian,690,5,Media/Entertainment,1
+5471,Male,FALSE,3.25,STEM,Other,610,4,Consulting,0
+5473,Male,TRUE,3.22,Humanities,NA,680,5,Financial Services,1
+5477,Male,FALSE,3.22,Humanities,White,660,5,Technology,1
+5484,Female,FALSE,3.5,Humanities,White,750,5,Technology,1
+5499,Male,FALSE,3.43,Humanities,Asian,660,6,Consulting,1
+5505,Male,FALSE,3.08,STEM,Hispanic,610,6,Consulting,0
+5511,Female,FALSE,3.28,Business,Asian,670,4,Financial Services,0
+5512,Female,TRUE,3.16,STEM,NA,660,6,Financial Services,0
+5513,Female,TRUE,3.34,Humanities,NA,660,3,Financial Services,0
+5514,Female,TRUE,3.44,Humanities,NA,640,3,Technology,0
+5519,Male,TRUE,3.27,STEM,NA,660,3,Investment Banking,1
+5520,Male,FALSE,3.24,Humanities,Hispanic,670,5,Nonprofit/Gov,0
+5523,Male,TRUE,3.22,Humanities,NA,730,4,Technology,0
+5524,Male,FALSE,3.27,Business,White,660,5,Consulting,1
+5528,Male,TRUE,3.3,Humanities,NA,700,4,Consulting,1
+5540,Female,TRUE,3.36,STEM,NA,760,5,Financial Services,1
+5541,Male,FALSE,3.31,Humanities,Other,600,5,Technology,0
+5550,Female,FALSE,3.57,Business,White,720,5,Investment Banking,1
+5554,Male,FALSE,3.35,Humanities,White,690,4,Financial Services,0
+5557,Female,TRUE,3.42,Humanities,NA,690,4,Other,1
+5560,Male,FALSE,3.15,Humanities,White,570,5,Consulting,0
+5561,Female,FALSE,3.37,Business,White,670,7,Consulting,1
+5567,Male,FALSE,3.38,Business,Asian,680,6,Consulting,1
+5568,Female,TRUE,3.13,Business,NA,650,4,Technology,0
+5576,Male,FALSE,3.07,Humanities,White,640,5,PE/VC,0
+5580,Male,FALSE,3.24,STEM,White,580,4,Consulting,0
+5585,Male,FALSE,3.22,Business,Black,730,6,Technology,0
+5588,Male,FALSE,3.38,STEM,Other,610,7,Health Care,0
+5590,Male,FALSE,3.14,Business,White,640,4,Investment Banking,0
+5591,Male,FALSE,3.41,Business,Asian,730,5,Consulting,1
+5599,Male,FALSE,3.16,Business,Asian,660,5,Technology,0
+5604,Female,FALSE,3.28,Humanities,White,720,5,Technology,1
+5605,Female,TRUE,3.42,Humanities,NA,670,6,Nonprofit/Gov,1
+5606,Male,FALSE,3.39,Business,White,700,6,Nonprofit/Gov,1
+5610,Male,FALSE,3.35,STEM,Black,690,4,Financial Services,0
+5613,Male,FALSE,3.38,Humanities,White,660,5,Consulting,1
+5614,Male,FALSE,3.26,STEM,White,720,6,Nonprofit/Gov,1
+5626,Male,TRUE,3.18,Business,NA,680,5,Investment Management,0
+5627,Male,FALSE,3.42,Business,Other,710,5,PE/VC,0
+5632,Female,TRUE,3.2,Humanities,NA,700,6,Other,0
+5637,Male,FALSE,3.12,Business,White,670,4,Nonprofit/Gov,0
+5641,Male,TRUE,3.4,Business,NA,740,5,Consulting,0
+5644,Male,FALSE,3.48,Business,White,690,4,Nonprofit/Gov,1
+5649,Female,FALSE,3.34,Humanities,Hispanic,670,5,PE/VC,0
+5651,Female,TRUE,3.27,STEM,NA,610,4,Consulting,0
+5654,Male,FALSE,3.43,STEM,Asian,720,5,Investment Management,1
+5655,Male,TRUE,3.32,STEM,NA,670,4,Consulting,1
+5661,Male,TRUE,3.19,Business,NA,680,6,Consulting,0
+5663,Female,TRUE,3.37,Business,NA,670,4,Nonprofit/Gov,1
+5664,Male,FALSE,3.32,STEM,White,680,6,Health Care,1
+5665,Male,TRUE,3.28,STEM,NA,660,3,PE/VC,1
+5668,Male,FALSE,3.61,Humanities,Asian,780,5,Consulting,1
+5669,Male,FALSE,3.25,Business,Black,700,2,Nonprofit/Gov,0
+5675,Female,FALSE,3.35,Business,Black,660,6,Technology,1
+5677,Male,FALSE,3.48,Humanities,White,740,6,Health Care,0
+5679,Male,FALSE,3.35,Humanities,Asian,710,1,Consulting,1
+5681,Male,FALSE,3,Business,White,620,6,Consulting,0
+5683,Male,FALSE,3.3,STEM,White,660,5,Technology,0
+5687,Female,FALSE,3.34,Humanities,Asian,640,4,CPG,0
+5688,Male,FALSE,3.55,Business,Hispanic,660,4,Technology,1
+5693,Male,FALSE,3.12,Humanities,Asian,700,5,Technology,0
+5696,Male,FALSE,3.21,Business,White,580,7,Other,0
+5698,Male,FALSE,3.27,Humanities,White,770,5,Investment Management,1
+5702,Male,FALSE,3.27,Humanities,Black,660,7,Nonprofit/Gov,0
+5703,Female,TRUE,3.09,Business,NA,600,6,Financial Services,0
+5706,Male,FALSE,3.5,STEM,Black,760,5,Investment Banking,1
+5709,Male,FALSE,3.32,Humanities,White,750,6,Consulting,1
+5710,Male,TRUE,3.13,Humanities,NA,650,4,PE/VC,0
+5716,Male,TRUE,2.99,Business,NA,570,4,Nonprofit/Gov,0
+5723,Male,TRUE,3.34,Humanities,NA,730,7,Consulting,1
+5724,Female,FALSE,3.24,STEM,White,670,6,PE/VC,1
+5727,Male,FALSE,3.16,Business,Asian,640,5,Retail,0
+5728,Female,FALSE,3.33,Humanities,Black,680,6,Health Care,1
+5734,Female,TRUE,3.51,Humanities,NA,720,6,Consulting,0
+5735,Female,FALSE,3.32,STEM,Asian,670,4,Technology,1
+5743,Male,FALSE,3.42,Humanities,Hispanic,690,5,Energy,0
+5744,Male,FALSE,3.29,Business,Asian,680,4,Technology,1
+5747,Male,FALSE,2.98,Business,Asian,590,6,Consulting,0
+5753,Female,FALSE,3.03,STEM,White,630,5,Investment Management,0
+5755,Female,FALSE,3.34,Humanities,White,700,6,Consulting,1
+5760,Female,FALSE,3.16,Business,White,610,5,Nonprofit/Gov,0
+5761,Male,FALSE,3.38,STEM,White,770,4,Nonprofit/Gov,1
+5762,Male,FALSE,3.52,Humanities,Asian,670,5,Nonprofit/Gov,0
+5764,Female,TRUE,3.46,Business,NA,730,5,PE/VC,1
+5767,Female,FALSE,3.36,Humanities,Hispanic,670,3,PE/VC,0
+5768,Male,FALSE,3.51,Business,White,740,4,CPG,1
+5771,Male,TRUE,3.3,Humanities,NA,670,5,PE/VC,1
+5774,Male,FALSE,3.21,Business,Black,680,4,PE/VC,0
+5783,Female,TRUE,3.09,Humanities,NA,600,8,Consulting,0
+5785,Male,TRUE,3.38,Business,NA,670,5,Technology,0
+5786,Male,FALSE,3.33,Business,Black,630,7,PE/VC,0
+5788,Male,FALSE,3.4,Business,Black,620,5,Consulting,0
+5792,Male,TRUE,3.66,Humanities,NA,680,5,Technology,1
+5794,Male,FALSE,2.95,Humanities,Hispanic,610,4,Investment Banking,0
+5796,Male,FALSE,3.25,Business,Black,670,7,Consulting,1
+5798,Male,TRUE,3.35,Humanities,NA,680,4,PE/VC,0
+5800,Male,TRUE,3.41,Humanities,NA,710,6,Consulting,0
+5803,Male,FALSE,3.54,Humanities,Black,740,5,PE/VC,0
+5807,Male,FALSE,3.04,STEM,White,650,5,Energy,0
+5808,Female,FALSE,3.24,Business,White,590,5,Investment Banking,0
+5816,Male,FALSE,3.31,Humanities,Asian,710,6,Financial Services,1
+5817,Female,FALSE,3.29,Humanities,Hispanic,640,3,Investment Management,0
+5819,Male,TRUE,3.32,STEM,NA,670,7,Investment Banking,1
+5820,Male,FALSE,3.21,STEM,Hispanic,610,3,Consulting,0
+5821,Female,FALSE,2.97,Business,Other,620,4,Investment Banking,0
+5823,Male,FALSE,3.4,Humanities,White,690,5,Technology,1
+5826,Female,FALSE,3.49,Humanities,Other,780,4,PE/VC,0
+5827,Male,FALSE,3.32,STEM,White,690,5,PE/VC,1
+5830,Male,TRUE,3.4,Humanities,NA,680,5,Consulting,1
+5832,Female,FALSE,3.29,STEM,White,660,6,Health Care,1
+5833,Female,FALSE,3.26,Humanities,White,570,5,PE/VC,0
+5835,Male,TRUE,3.36,Humanities,NA,690,6,PE/VC,1
+5841,Male,FALSE,2.98,Humanities,Hispanic,590,6,Nonprofit/Gov,0
+5850,Male,TRUE,3.37,Business,NA,730,6,Technology,1
+5851,Female,FALSE,3.25,Business,White,670,4,Other,1
+5853,Male,FALSE,3.27,STEM,White,700,5,Consulting,1
+5855,Male,TRUE,3.32,Humanities,NA,720,6,PE/VC,1
+5860,Male,FALSE,3.16,Humanities,White,590,5,Technology,0
+5868,Male,FALSE,3.46,Business,Other,730,4,PE/VC,1
+5869,Female,TRUE,3.55,Humanities,NA,740,6,Financial Services,1
+5876,Male,FALSE,3.28,Business,White,620,3,Other,0
+5882,Female,TRUE,3.2,Humanities,NA,660,5,Consulting,0
+5884,Female,FALSE,3.24,STEM,White,680,5,Consulting,1
+5889,Male,FALSE,3.22,Humanities,White,580,5,Health Care,0
+5894,Female,TRUE,3.24,Humanities,NA,690,7,Consulting,0
+5899,Female,TRUE,3.31,Humanities,NA,660,5,Consulting,1
+5905,Female,TRUE,3.3,Humanities,NA,640,6,Nonprofit/Gov,0
+5906,Male,TRUE,3.33,STEM,NA,650,5,Other,0
+5910,Male,FALSE,3.66,Business,White,770,5,Other,1
+5921,Female,FALSE,3.36,Humanities,Black,680,5,Health Care,0
+5923,Female,TRUE,3.28,STEM,NA,640,5,PE/VC,0
+5925,Female,FALSE,3.46,Humanities,Hispanic,670,5,Consulting,1
+5930,Male,FALSE,3.48,Humanities,Asian,760,8,Financial Services,1
+5932,Male,FALSE,3.26,Humanities,Asian,670,3,CPG,1
+5933,Male,FALSE,3.26,Humanities,Asian,740,6,Nonprofit/Gov,1
+5937,Female,TRUE,3.21,Humanities,NA,670,5,Consulting,0
+5940,Male,FALSE,3.27,Humanities,Asian,670,5,Financial Services,1
+5945,Female,FALSE,3.14,Business,White,630,5,Investment Banking,0
+5947,Male,FALSE,3.24,STEM,White,580,3,Consulting,0
+5949,Male,TRUE,3.36,Humanities,NA,650,6,Nonprofit/Gov,0
+5953,Male,TRUE,3.25,STEM,NA,620,7,Consulting,0
+5954,Male,FALSE,3.39,STEM,Hispanic,680,5,Retail,1
+5955,Male,FALSE,3.36,Humanities,Asian,700,6,Other,0
+5960,Male,TRUE,3.31,Humanities,NA,660,5,Investment Management,1
+5963,Male,TRUE,3.28,Humanities,NA,640,5,Technology,0
+5964,Male,FALSE,3.4,STEM,Black,690,5,Technology,0
+5967,Female,FALSE,3.22,Humanities,Asian,660,5,Consulting,1
+5980,Female,FALSE,3.11,Humanities,Black,650,5,Investment Management,0
+5981,Male,TRUE,3.33,Business,NA,650,3,Technology,0
+5984,Female,FALSE,3.45,STEM,Black,740,5,Investment Banking,0
+5986,Male,TRUE,3.23,STEM,NA,630,5,Health Care,0
+5989,Male,FALSE,3.14,Humanities,Asian,590,4,Real Estate,0
+5993,Female,FALSE,3.44,STEM,White,720,5,Nonprofit/Gov,1
+5994,Male,FALSE,3.16,STEM,Other,600,5,Consulting,0
+5995,Female,FALSE,3.27,STEM,Asian,660,4,Consulting,1
+5997,Female,FALSE,3.23,Business,Black,710,5,Nonprofit/Gov,1
+5998,Female,TRUE,3.12,STEM,NA,620,4,Technology,0
+6005,Male,FALSE,3.33,Humanities,Asian,640,3,Consulting,0
+6013,Male,FALSE,3.29,Humanities,Asian,640,5,Investment Banking,0
+6018,Female,FALSE,3.17,Business,Black,640,4,Investment Management,0
+6019,Male,TRUE,3.47,Business,NA,770,6,Financial Services,1
+6021,Male,FALSE,3.13,STEM,Asian,670,5,Investment Banking,0
+6023,Male,TRUE,3.18,Humanities,NA,650,5,Consulting,0
+6026,Male,FALSE,3.05,Humanities,White,570,6,Technology,0
+6028,Female,FALSE,3.26,Humanities,Asian,710,4,Technology,0
+6031,Male,TRUE,3.18,STEM,NA,590,5,PE/VC,0
+6033,Male,TRUE,3.26,STEM,NA,660,5,Consulting,1
+6047,Male,FALSE,3.41,STEM,White,710,5,Technology,1
+6049,Male,FALSE,3.45,Humanities,Black,660,5,Consulting,0
+6051,Male,FALSE,3.42,Humanities,White,670,5,Investment Banking,1
+6057,Female,TRUE,3.25,Business,NA,650,7,Consulting,0
+6060,Male,FALSE,3.22,STEM,Asian,600,5,Consulting,0
+6061,Male,FALSE,3.13,STEM,White,630,6,Health Care,0
+6067,Female,TRUE,3.09,Humanities,NA,620,7,Investment Banking,0
+6070,Female,FALSE,3.2,Business,Black,610,4,PE/VC,0
+6071,Female,TRUE,3.24,STEM,NA,680,6,Investment Banking,1
+6075,Male,FALSE,3.49,Business,Hispanic,640,5,Investment Banking,0
+6078,Male,FALSE,3.33,STEM,Black,680,3,Consulting,0
+6080,Male,FALSE,3.18,STEM,Black,640,4,Other,0
+6082,Male,FALSE,3.16,STEM,White,620,3,Consulting,0
+6083,Male,FALSE,3.14,Humanities,Hispanic,620,6,Consulting,0
+6090,Male,FALSE,3.5,STEM,White,700,3,Consulting,1
+6093,Male,FALSE,3.54,Humanities,White,700,6,Consulting,1
+6095,Male,FALSE,3.17,Humanities,Asian,600,5,PE/VC,0
+6097,Male,TRUE,3.03,STEM,NA,650,5,Consulting,0
+6101,Male,FALSE,3.38,STEM,Asian,700,7,Financial Services,1
+6102,Male,TRUE,3.28,Business,NA,600,5,Consulting,0
+6104,Female,FALSE,3.37,Business,Asian,720,6,Investment Banking,1
+6106,Female,TRUE,3.51,Humanities,NA,700,4,Nonprofit/Gov,0
+6110,Female,TRUE,3.42,Humanities,NA,660,7,Consulting,1
+6115,Female,FALSE,3.38,Business,Hispanic,690,7,Technology,1
+6118,Male,FALSE,3.45,STEM,Other,750,6,Health Care,1
+6119,Male,FALSE,3.43,STEM,White,700,5,Financial Services,0
+6124,Female,FALSE,3.25,Humanities,Black,630,4,Nonprofit/Gov,0
+6127,Female,TRUE,3.68,Business,NA,780,5,Investment Banking,1
+6137,Female,FALSE,3.1,Business,Black,660,6,CPG,0
+6138,Male,TRUE,3.33,STEM,NA,690,5,Consulting,1
+6146,Female,TRUE,3.45,Humanities,NA,680,6,Consulting,0
+6149,Male,FALSE,3.3,Business,White,710,5,Investment Management,0
+6151,Female,FALSE,3.46,Business,Asian,680,5,Investment Banking,1
+6153,Female,FALSE,3.31,Business,Black,690,3,Other,1
+6169,Female,FALSE,3.21,STEM,White,680,5,Consulting,1
+6171,Male,FALSE,3.05,STEM,White,600,6,Other,0
+6176,Female,FALSE,3.38,Humanities,Hispanic,680,3,Technology,1
+6178,Male,FALSE,3.35,Humanities,Hispanic,750,5,PE/VC,1
+6179,Male,FALSE,2.96,Business,Asian,630,3,Financial Services,0
+6185,Male,FALSE,3.33,STEM,White,620,5,Health Care,0
+6191,Male,FALSE,3.18,STEM,Black,670,4,Consulting,0
+6192,Female,TRUE,3.22,Business,NA,680,5,Health Care,1
+6194,Male,FALSE,3.23,STEM,Hispanic,650,4,Consulting,0
