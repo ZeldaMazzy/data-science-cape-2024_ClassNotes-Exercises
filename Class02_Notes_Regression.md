@@ -41,6 +41,7 @@ The Trend Line loosely predicts how the data "trend" as the Independent Variable
 | 7.147                   | 54.2                              | 36.2                          |
 | 6.43                    | 58.7                              | 28.7                          |
 | 6.012                   | 66.6                              | 22.9                          |
+
 We can see different relationships between several different variables.
 
 ![[Pasted image 20240919193217.png]]
@@ -81,6 +82,7 @@ We mark our coefficients on columns A and B.
 | Intercept      | -34.11           |
 | rm             | 8.97             |
 | chas           | 4.08             |
+
 And our values and formulae columns C through E (with an extra column showing the evaluation, so I can put both the formula and what it comes up with — you won't actually see the formula in Excel once you click away from the cell).
 
 | rm (C) | chas (D) | Prediction Formula (E)            | E Evaluated |
@@ -88,6 +90,7 @@ And our values and formulae columns C through E (with an extra column showing th
 | 6      | 1        | =B2 + C2$\times$B3 + D2$\times$B4 | 23.79       |
 | 5      | 0        | =B2 + C3$\times$B3 + D3$\times$B4 | 10.74       |
 | 6      | 0        | =B2 + C4$\times$B3 + D4$\times$B4 | 19.71       |
+
 *Don't copy and paste these formulas, as I've edited them for readability. The multiplication symbol is just the asterisk (\*).* 
 ## 2. Logistic Regression
 As I stated earlier, we do Logistic Regression when our Dependent Variable (target) is categorical instead of numerical. Instead of predicting a precise target, we try to predict the probability an event is likely to happen. For instance, you can predict the probability you'll pass an exam based on how many hours you study for it. Naturally, there are some variations and it isn't exact, which is why it is the *probability*. 
@@ -113,11 +116,13 @@ We can put all of this together in Excel. It looks like this, where your Coeffic
 | -------------- | ---------------- |
 | Intercept      | -4               |
 | Hours Studied  | 0.5              |
+
 Now let's put the formula into Excel. The Logistic Function is simply `=1 / (1 + EXP(-D2))`, where `D2` is the cell containing the Regression Function. The Passed column is our evaluation, but would automatically substitute the Logistic Function when you click away. 
 
 | Hours Studied (C) | Regression Function *z* (D) | Logistic Function (E) | Passed? |
 | ----------------- | --------------------------- | --------------------- | ------- |
 | 3.0               | =A1 + A2(B1)+A3(C1)         | =1/(1+EXP(-D2))       | 0.92    |
+
 *Don't copy and paste the regression function, as I've edited it for readability. The multiplication symbol is just the asterisk (\*).* 
 #### DEMONSTRATION: Logistic Regression with Jamovi and Predictions with Excel
 Let's load up the [Student Exam Performance Dataset](https://www.kaggle.com/datasets/mrsimple07/student-exam-performance-prediction) from Kaggle and open Jamovi.
@@ -136,6 +141,7 @@ We substitute our regression formula in column E as `=B$2 + C2*B$3 + D2*B$4` (th
 | Intercept      | -17.76   | 5.5    | 82     | 0.045          | 0.51          |
 | Study Hours    | 1.15     | 4      | 90     | -0.56          | 0.36          |
 | Prev. Score    | 0.14     |        |        |                |               |
+
 The first student passed, as $0.51 > 0.4$, but the second student likely failed, since $0.36 < 0.4$. The data show that current time put into study is more important than your past performance. Your mind is a muscle! Regular exercise keeps it healthy.
 ## 3. In-Class Exercise
 Now that we've demonstrated everything, students will work on Multiple Linear Regression this time around in class. After 30-45 minutes, go over it with them. 
