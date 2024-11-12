@@ -254,7 +254,29 @@ sample_id
 33              Pinot Noir           1.91           Medium
 ```
 
-The records above are some of the records from Napa Valley, all conveniently clustered together. We can run analyses on just this subset if we wanted to. With it,. we can compare the descriptive statistics of multiple different regions. We can see there are slight differences between these two regions.
+The records above are some of the records from Napa Valley, all conveniently clustered together. We can chain indices together as well. Let's say I want to pull all records for Pinot Noir grapes in Napa Valley.
+
+```python
+grape_data.loc['Napa Valley'].loc['Pinot Noir'].head()
+
+#prints these records
+           quality_score quality_category  sugar_content_brix  acidity_ph
+sample_id                                                                   
+33                  1.91           Medium               14.60        3.45   
+78                  2.31           Medium               23.59        3.43   
+80                  2.70             High               29.00        3.88   
+104                 2.55             High               28.56        3.77   
+234                 2.13           Medium               10.62        3.99
+```
+
+If I wanted to, I can select the second index by using `xs` and setting the level = 1. Here is how I could index by all Zinfandel grapes, regardless of their region.
+
+```python
+grape_data.xs("Zinfandel", level = 1) 
+# region is 0 in this case, since it's the first index
+```
+
+We can run analyses on just any of these subsets if we wanted to. With it, we can compare the descriptive statistics of multiple different regions. We can see there are slight differences between these two regions.
 
 ```python
 napa_data = grape_data.loc['Napa Valley']
