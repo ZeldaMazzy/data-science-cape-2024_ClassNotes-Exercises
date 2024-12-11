@@ -34,9 +34,6 @@ We'll be using Pandas and SciKit Learn for our trees.
 #### Setting Up
 We first need to add in our necessary imports.
 
-# Sci Kit Learn
-sklearn
-
 ```python
 import pandas as pd 
 import matplotlib.pyplot as plt 
