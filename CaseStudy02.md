@@ -34,6 +34,7 @@ To get the most out of this case study, you can write out your results in a Jupy
 4. Talk about the different clusters and risk factors, and display descriptive statistics for each one. Perhaps plot some histograms or bar graphs for things that stand out. For instance, if there's a *huge* difference in cholesterol levels for each cluster, compare their histograms.
 5. Run a predictive analysis on each cluster, and list the risk factors that have the most influence. Remember, in a Random Forest analysis, we can graph the features by their importance.
 6. Come up with a conclusion. Based on this dataset, what do you think someone can do to mitigate their risk of CHD?
+7. Do you think you could tell a story with this data by creating a fictional "model patient"?
 ## Part 1: Statistics with Pandas
 Let's start by loading the dataset into Python and getting a good look at it with Pandas. You don't actually have to include every single one of these steps in the report.
 1. Load the dataset into Python and import Pandas
@@ -54,7 +55,7 @@ Now we need to make some cool graphs. These are crucial to get your point across
 ## Part 3: Categorizing
 Before we get into regression analysis, I want to cluster these people into different groups. For this, we're going to use *mostly* numeric features and not categorical ones, minus the person's sex.
 1. Convert `sex` from M and F to 0 and 1
-2. Create a list of these features: `age`, `sex`, `cigsPerDay`, `diaBP`, `sysBP`, `totChol`, `BMI`, `heartRate`, and `glucose`
+2. Create a list of these features: `age`, `sex`, `cigsPerDay`, `diaBP`, `sysBP`, `totChol`, `BMI`, `heartRate`, `glucose`, and `TenYearCHD`
 3. Create a new dataset that only includes those features
 4. Normalize (scale) the new dataset
 5. Using a loop and the Elbow Method, find the optimal number of clusters
@@ -102,4 +103,5 @@ This is where you put your thoughts onto paper. Talk about what you learned, wha
 2. What things surprised you about this dataset? Did anything stand out? Did anything confirm your suspicions?
 3. What other columns would you include in this dataset if you could choose?
 4. Would you try any other forms of analysis?
-5. How did being able to code this all in one place affect how you were able to work? 
+5. How did being able to code this all in one place affect how you were able to work?
+6. What about creating a model patient to tell a story with your data? I.e., instead of only showing the numbers and graphs, maybe talk about how this could be a beloved member of the community to personalize it a bit. 
